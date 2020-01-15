@@ -5,16 +5,17 @@ import React from "react"
 import styled from "styled-components"
 import tw from "tailwind.macro"
 
-const Nav = styled.div`
-  ${tw`bg-white-400 px-2 mx-auto flex justify-between items-center`}
-`
 
 const NavContainer = styled.header`
-  ${tw`flex-row items-center`}  
+  ${tw`flex-col items-center p-1 justify-center`}  
+`
+
+const Nav = styled.div`
+  ${tw`bg-white-400 flex-row justify-between items-stretch flex-grow`}
 `
 
 const NavHeading = styled.h1`
-  ${tw`text-black text-bold sm:text-3xl text-2xl font-display p-2`}
+  ${tw`text-black text-bold sm:text-3xl text-2xl p-2 self-center`}
 `
 
 const Menu = styled.div`
