@@ -1,5 +1,5 @@
 import Typography from "typography"
-import theme from 'typography-theme-wordpress-2016'
+import theme from 'typography-theme-irving'
 
 const typography = new Typography(theme)
 
