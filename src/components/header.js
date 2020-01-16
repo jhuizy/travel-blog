@@ -6,7 +6,7 @@ import styled from "styled-components"
 import tw from "tailwind.macro"
 
 const MenuItem = styled.a`
-  ${tw`hover:bg-black hover:text-white rounded p-2 flex justify-around items-center`}
+  ${tw`hover:bg-teal-400 hover:text-white rounded-sm p-2 flex justify-around items-center`}
 `
 
 export default ({ siteTitle }) => {
@@ -14,7 +14,7 @@ export default ({ siteTitle }) => {
   const [isOpen, setOpen] = useState(false)
 
   return (
-    <div className="flex flex-col p-1">
+    <div className="flex flex-col p-1 ">
       <div className="bg-white-400 flex flex-1 flex-row justify-around px-2">
         <h1 className="text-black text-bold lg:text-xl text-lg p-2 my-2">
           {siteTitle}
@@ -23,7 +23,7 @@ export default ({ siteTitle }) => {
         <div className="flex-grow"></div>
 
         <div className="flex flex-row items-stretch justify-end sm:justify-around">
-          <button className="self-center sm:hidden text-black hover:text-white hover:bg-black p-2 rounded" onClick={e => setOpen(!isOpen)}>
+          <button className=" self-center sm:hidden text-black hover:text-white hover:bg-teal-400 p-2 rounded-sm" onClick={e => setOpen(!isOpen)}>
             {!isOpen &&
               <svg className="fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
                 <path class="heroicon-ui" d="M4 5h16a1 1 0 0 1 0 2H4a1 1 0 1 1 0-2zm0 6h16a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2zm0 6h16a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2z" />
@@ -36,9 +36,9 @@ export default ({ siteTitle }) => {
             }
           </button>
           <div className="sm:flex flex-grow flex-row hidden justify-around items-stretch">
-            <a className="rounded px-3 flex-grow hover:bg-black hover:text-white flex items-center justify-around" href="#">Home</a>
-            <a className="rounded px-3 flex-grow hover:bg-black hover:text-white flex items-center justify-around" href="#">Posts</a>
-            <a className="rounded px-3 flex-grow hover:bg-black hover:text-white flex items-center justify-around" href="#">Content</a>
+            <a className="text-bold ounded-sm px-3 flex-grow hover:bg-teal-400 hover:text-white flex items-center justify-around text-sm" href="#"><h6>Home</h6></a>
+            <a className="text-bold ounded-sm px-3 flex-grow hover:bg-teal-400 hover:text-white flex items-center justify-around text-sm" href="#"><h6>Posts</h6></a>
+            <a className="text-bold ounded-sm px-3 flex-grow hover:bg-teal-400 hover:text-white flex items-center justify-around text-sm" href="#"><h6>Content</h6></a>
           </div>
         </div>
       </div>
