@@ -1,7 +1,17 @@
 module.exports = {
   theme: {
-    extend: {}
+    extend: {
+      transitionProperty: {
+        'm': 'margin'
+      }
+    }
   },
-  variants: {},
-  plugins: []
+  variants: {
+    margin: ['responsive', 'hover', 'focus'],
+    scale: ['responsive', 'hover'],
+  },
+  plugins: [
+    require('tailwindcss-transitions')(),
+    require('tailwindcss-transforms')()
+  ]
 }
