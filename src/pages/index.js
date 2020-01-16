@@ -12,7 +12,9 @@ import tw from "tailwind.macro"
 const IndexPage = ({ data }) => (
   <Layout>
     <SEO title="Two Aussie Travellers" />
+    <div className="hover:scale-2">
     <HeroImage />
+    </div>
     <PostList
       posts={[
         {

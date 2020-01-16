@@ -3,7 +3,12 @@ module.exports = {
     extend: {
       transitionProperty: {
         'm': 'margin'
-      }
+      },
+      translate: {
+        '0': '0',
+        '-full': '-100%',
+        'full': '100%'
+      },
     }
   },
   variants: {
