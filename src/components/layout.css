@@ -1,7 +1,7 @@
 @import "tailwindcss/base";
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
-
+/*
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -66,7 +66,7 @@ dfn {
 }
 h1 {
   font-size: 2em;
-  margin: 0.67em 0;
+  margin: 0 0;
 }
 mark {
   background-color: #ff0;
@@ -623,4 +623,4 @@ pre tt:after {
   html {
     font-size: 100%;
   }
-}
+} */
