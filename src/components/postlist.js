@@ -1,5 +1,6 @@
 import React from 'react';
 import Img from "gatsby-image"
+import Button from './button'
 import styled from "styled-components"
 import tw from "tailwind.macro"
 
@@ -10,7 +11,7 @@ const PostPreview = ({ i, category, title, excerpt, image }) =>
         <h4 className="my-1 text-xs border-b border-teal-400 uppercase tracking-widest font-sans">{category}</h4>
         <h2 className="my-2 text-3xl">{title}</h2>
         <div className="my-3">{excerpt}</div>
-        <button className="my-3 self-start hover:bg-teal-600 bg-teal-400 py-1 px-6 rounded-sm text-white font-bold font-sans text-xs">Read More</button>
+        <Button className="my-3 self-start">Read More</Button>
       </div>
 
       <div className="w-full sm:w-1/2">
