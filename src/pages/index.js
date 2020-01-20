@@ -6,6 +6,7 @@ import { HeroImage } from "../components/image"
 import SEO from "../components/seo"
 import PostList from "../components/postlist"
 import Button from '../components/button'
+import InstagramList from "../components/instagramlist"
 
 import styled from "styled-components"
 import tw from "tailwind.macro"
@@ -21,7 +22,7 @@ const ImageContainer = styled.div`
 const IndexPage = ({ data }) => (
   <Layout>
     <SEO title="Two Aussie Travellers" />
-    <div className="relative w-full text-center">
+    <div id="home" className="relative w-full text-center">
       <HeroImage />
       {/* <img src={data.headerImage.publicURL} /> */}
       <div className="flex flex-col justfiy-between items-center h-full w-full absolute inset-0">
@@ -34,23 +35,51 @@ const IndexPage = ({ data }) => (
       </div>
 
     </div>
-
-    <PostList
-      posts={[
-        {
-          category: "Travel",
-          title: "Exploring the wilds",
-          excerpt: "Veritatis iusto commodi magni quibusdam molestiae. Eaque neque ea sapiente eum est. Fuga nobis et pariatur. Quisquam laudantium expedita necessitatibus. Ut vel dolorem deserunt dignissimos qui in. Aspernatur consequuntur nostrum at aperiam.",
-          image: data.image.childImageSharp.fluid
-        },
-        {
-          category: "Other",
-          title: "Getting to know the locals",
-          excerpt: "Veritatis iusto commodi magni quibusdam molestiae. Eaque neque ea sapiente eum est. Fuga nobis et pariatur. Quisquam laudantium expedita necessitatibus. Ut vel dolorem deserunt dignissimos qui in. Aspernatur consequuntur nostrum at aperiam.",
-          image: data.image.childImageSharp.fluid
-        }
-      ]}
-    />
+    <div id="posts">
+      <PostList
+        posts={[
+          {
+            category: "Travel",
+            title: "Exploring the wilds",
+            excerpt: "Veritatis iusto commodi magni quibusdam molestiae. Eaque neque ea sapiente eum est. Fuga nobis et pariatur. Quisquam laudantium expedita necessitatibus. Ut vel dolorem deserunt dignissimos qui in. Aspernatur consequuntur nostrum at aperiam.",
+            image: data.image.childImageSharp.fluid
+          },
+          {
+            category: "Other",
+            title: "Getting to know the locals",
+            excerpt: "Veritatis iusto commodi magni quibusdam molestiae. Eaque neque ea sapiente eum est. Fuga nobis et pariatur. Quisquam laudantium expedita necessitatibus. Ut vel dolorem deserunt dignissimos qui in. Aspernatur consequuntur nostrum at aperiam.",
+            image: data.image.childImageSharp.fluid
+          }
+        ]}
+      />
+    </div>
+    <div id="instagram">
+      <InstagramList 
+        posts={[
+          {
+            url: data.image.childImageSharp.fluid,
+            likes: 1,
+            comments: 1
+          },
+          {
+            url: data.image.childImageSharp.fluid,
+            likes: 1,
+            comments: 1
+          },
+          {
+            url: data.image.childImageSharp.fluid,
+            likes: 1,
+            comments: 1
+          },
+          {
+            url: data.image.childImageSharp.fluid,
+            likes: 1,
+            comments: 1
+          }
+        ]}
+      />
+    </div>
+    <div id="contact"></div>
   </Layout>
 )
 

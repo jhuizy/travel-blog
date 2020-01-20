@@ -18,8 +18,8 @@ export default ({ siteTitle }) => {
   const [isOpen, setOpen] = useState(false)
 
   return (
-    <div className="flex flex-col bg-black text-white text-bold">
-      <div className="flex flex-row justify-around px-2">
+    <div className="flex flex-col bg-black text-white text-bold z-0">
+      <div className="flex flex-row justify-around px-2 z-0">
         <h1 className="lg:w-3/5 lg:text-xl text-lg p-2 my-2 lg:mx-6">
           {siteTitle}
         </h1>
@@ -38,20 +38,20 @@ export default ({ siteTitle }) => {
             }
           </button>
           <div className="flex-grow flex-row hidden lg:flex">
-            <MenuItem href="#"><h6>Home</h6></MenuItem>
-            <MenuItem href="#"><h6>Posts</h6></MenuItem>
-            <MenuItem href="#"><h6>Instagram</h6></MenuItem>
-            <MenuItem href="#"><h6>Contact</h6></MenuItem>
+            <MenuItem href="#home"><h6>Home</h6></MenuItem>
+            <MenuItem href="#posts"><h6>Posts</h6></MenuItem>
+            <MenuItem href="#instagram"><h6>Instagram</h6></MenuItem>
+            <MenuItem href="#contact"><h6>Contact</h6></MenuItem>
           </div>
         </div>
       </div>
 
       {isOpen && (
         <div className={`flex flex-col items-stretch block lg:hidden bg-gray-900`}>
-          <MobileMenuItem href="#"><h6>Home</h6></MobileMenuItem>
-          <MobileMenuItem href="#"><h6>Posts</h6></MobileMenuItem>
-          <MobileMenuItem href="#"><h6>Instagram</h6></MobileMenuItem>
-          <MobileMenuItem href="#"><h6>Contact</h6></MobileMenuItem>
+          <MobileMenuItem href="#home"><h6>Home</h6></MobileMenuItem>
+          <MobileMenuItem href="#posts"><h6>Posts</h6></MobileMenuItem>
+          <MobileMenuItem href="#instagram"><h6>Instagram</h6></MobileMenuItem>
+          <MobileMenuItem href="#contact"><h6>Contact</h6></MobileMenuItem>
         </div>
       )}
     </div>

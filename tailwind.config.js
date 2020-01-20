@@ -5,12 +5,14 @@ module.exports = {
         'm': 'margin',
         'bg': 'background-color',
         'transform': 'transform',
-        'shadow': 'shadow'
+        'shadow': 'shadow',
+        'all': 'all',
+        'opacity': 'opcacity'
       },
       translate: {
         '0': '0',
-        '-full': '-100%',
-        'full': '100%'
+        'full-inv': '-100%',
+        'full': '100%',
       },
       inset: {
         '1/3': '33%',
@@ -25,6 +27,7 @@ module.exports = {
   variants: {
     margin: ['responsive', 'hover', 'focus'],
     scale: ['responsive', 'hover'],
+    opacity: ['responsive', 'hover', 'group-hover']
   },
   plugins: [
     require('tailwindcss-transitions')(),
