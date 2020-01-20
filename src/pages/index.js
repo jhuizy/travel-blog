@@ -56,28 +56,11 @@ const IndexPage = ({ data }) => (
     </div>
     <div id="instagram" className="pt-4 min-h-screen">
       <InstagramList 
-        posts={[
-          {
-            url: data.image.childImageSharp.fluid,
-            likes: 1,
-            comments: 1
-          },
-          {
-            url: data.image.childImageSharp.fluid,
-            likes: 1,
-            comments: 1
-          },
-          {
-            url: data.image.childImageSharp.fluid,
-            likes: 1,
-            comments: 1
-          },
-          {
-            url: data.image.childImageSharp.fluid,
-            likes: 1,
-            comments: 1
-          }
-        ]}
+        posts={data.instagrams.edges.map(edge => ({
+          likes: edge.node.likes,
+          comments: edge.node.comments,
+          image: edge.node.localFile.childImageSharp.fluid
+        }))}
       />
     </div>
     <div id="contact" className="pt-4 min-h-screen" >
@@ -95,6 +78,21 @@ export const query = graphql`
       childImageSharp {
         fluid {
           ...GatsbyImageSharpFluid
+        }
+      }
+    },
+    instagrams: allInstaNode(limit: 6, sort: {fields: timestamp, order: DESC}) {
+      edges {
+        node {
+          likes
+          comments
+          localFile {
+            childImageSharp {
+              fluid {
+                ...GatsbyImageSharpFluid
+              }
+            }
+          }
         }
       }
     }
