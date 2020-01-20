@@ -7,6 +7,7 @@ import SEO from "../components/seo"
 import PostList from "../components/postlist"
 import Button from '../components/button'
 import InstagramList from "../components/instagramlist"
+import Contact from '../components/contact'
 
 import styled from "styled-components"
 import tw from "tailwind.macro"
@@ -53,7 +54,7 @@ const IndexPage = ({ data }) => (
         ]}
       />
     </div>
-    <div id="instagram">
+    <div id="instagram" className="pt-4 min-h-screen">
       <InstagramList 
         posts={[
           {
@@ -79,7 +80,9 @@ const IndexPage = ({ data }) => (
         ]}
       />
     </div>
-    <div id="contact"></div>
+    <div id="contact" className="pt-4 min-h-screen" >
+      <Contact />
+    </div>
   </Layout>
 )
 
