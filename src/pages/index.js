@@ -57,6 +57,7 @@ const IndexPage = ({ data }) => (
     <div id="instagram" className="pt-4 min-h-screen">
       <InstagramList 
         posts={data.instagrams.edges.map(edge => ({
+          id: edge.node.id,
           likes: edge.node.likes,
           comments: edge.node.comments,
           image: edge.node.localFile.childImageSharp.fluid
@@ -81,9 +82,10 @@ export const query = graphql`
         }
       }
     },
-    instagrams: allInstaNode(limit: 6, sort: {fields: timestamp, order: DESC}) {
+    instagrams: allInstaNode(limit: 8, sort: {fields: timestamp, order: DESC}) {
       edges {
         node {
+          id
           likes
           comments
           localFile {
