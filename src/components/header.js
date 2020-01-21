@@ -1,6 +1,8 @@
-import { Link, useStaticQuery, graphql } from "gatsby"
+import { Link, useStaticQuery, graphql, withPrefix } from "gatsby"
+import { navigate } from "@reach/router"
 import PropTypes from "prop-types"
 import React, { useState } from "react"
+import { scrollToRef } from "../utils/scroll"
 
 import styled from "styled-components"
 import tw from "tailwind.macro"
@@ -13,8 +15,9 @@ const MenuItem = styled.button`
   ${tw`flex-1 text-bold px-3 hover:bg-teal-400 hover:text-black flex items-center justify-around text-sm`}
 `
 
-const scrollToRef = (ref) => window.scrollTo({ top: ref.current.offsetTop, behaviour: "smooth" })
-const createClickHandler = (ref) => (e) => scrollToRef(ref)
+const createClickHandler = (ref, id) => (e) => {
+  navigate(`/#${id}`)
+}
 
 export default ({ siteTitle, homeRef, postsRef, instagramRef, contactRef }) => {
 
@@ -41,20 +44,20 @@ export default ({ siteTitle, homeRef, postsRef, instagramRef, contactRef }) => {
             }
           </button>
           <div className="flex-grow flex-row hidden lg:flex">
-            <MenuItem onClick={createClickHandler(homeRef)}><h6>Home</h6></MenuItem>
-            <MenuItem onClick={createClickHandler(postsRef)}><h6>Posts</h6></MenuItem>
-            <MenuItem onClick={createClickHandler(instagramRef)}><h6>Instagram</h6></MenuItem>
-            <MenuItem onClick={createClickHandler(contactRef)}><h6>Contact</h6></MenuItem>
+            <MenuItem onClick={createClickHandler(homeRef, "home")}><h6>Home</h6></MenuItem>
+            <MenuItem onClick={createClickHandler(postsRef, "posts")}><h6>Posts</h6></MenuItem>
+            <MenuItem onClick={createClickHandler(instagramRef, "instagram")}><h6>Instagram</h6></MenuItem>
+            <MenuItem onClick={createClickHandler(contactRef, "contact")}><h6>Contact</h6></MenuItem>
           </div>
         </div>
       </div>
 
       {isOpen && (
         <div className={`flex flex-col items-stretch block lg:hidden bg-gray-900`}>
-          <MobileMenuItem onClick={createClickHandler(homeRef)}><h6>Home</h6></MobileMenuItem>
-          <MobileMenuItem onClick={createClickHandler(postsRef)}><h6>Posts</h6></MobileMenuItem>
-          <MobileMenuItem onClick={createClickHandler(instagramRef)}><h6>Instagram</h6></MobileMenuItem>
-          <MobileMenuItem onClick={createClickHandler(contactRef)}><h6>Contact</h6></MobileMenuItem>
+          <MobileMenuItem onClick={createClickHandler(homeRef, "home")}><h6>Home</h6></MobileMenuItem>
+          <MobileMenuItem onClick={createClickHandler(postsRef, "posts")}><h6>Posts</h6></MobileMenuItem>
+          <MobileMenuItem onClick={createClickHandler(instagramRef, "instagram")}><h6>Instagram</h6></MobileMenuItem>
+          <MobileMenuItem onClick={createClickHandler(contactRef, "contact")}><h6>Contact</h6></MobileMenuItem>
         </div>
       )}
     </div>

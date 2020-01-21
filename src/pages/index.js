@@ -1,8 +1,6 @@
 import React, { useRef } from "react"
 import { Link, graphql } from "gatsby"
 
-import { useScroll } from 'react-use'
-
 import Layout from "../components/layout"
 import { HeroImage } from "../components/image"
 import SEO from "../components/seo"
@@ -11,6 +9,8 @@ import PostList from "../components/postlist"
 import Button from '../components/button'
 import InstagramList from "../components/instagramlist"
 import Contact from '../components/contact'
+
+import { scrollToRef } from "../utils/scroll"
 
 import styled from "styled-components"
 import tw from "tailwind.macro"
@@ -30,12 +30,11 @@ const IndexPage = ({ data }) => {
   const instagramRef = useRef(null)
   const contactRef = useRef(null)
 
-
   return (
     <Layout>
-      <SEO title="Two Aussie Travellers" />
+      <SEO title="Two Travelling Aussies"/>
       <Header 
-        siteTitle="Two Aussie Travellers" 
+        siteTitle="Two Travelling Aussies" 
         homeRef={homeRef}
         postsRef={postsRef}
         instagramRef={instagramRef}
@@ -48,7 +47,7 @@ const IndexPage = ({ data }) => {
             <h1 className="border-white border-b-4 py-1 px-4 text-white text-bold text-lg lg:text-3xl tracking-widest uppercase">Always seeking adventure</h1>
           </div>
           <div className="flex-1 flex justify-around items-center">
-            <Button className="">Discover</Button>
+            <Button onClick={(e) => scrollToRef(postsRef)}>Discover</Button>
           </div>
         </div>
 
@@ -60,7 +59,8 @@ const IndexPage = ({ data }) => {
               category: "Travel",
               title: "Exploring the wilds",
               excerpt: "Veritatis iusto commodi magni quibusdam molestiae. Eaque neque ea sapiente eum est. Fuga nobis et pariatur. Quisquam laudantium expedita necessitatibus. Ut vel dolorem deserunt dignissimos qui in. Aspernatur consequuntur nostrum at aperiam.",
-              image: data.image.childImageSharp.fluid
+              image: data.image.childImageSharp.fluid,
+              slug: "page-2"
             },
             {
               category: "Other",
