@@ -58,7 +58,7 @@ const IndexPage = ({ data }) => {
             category: edge.node.frontmatter.date,
             title: edge.node.frontmatter.title,
             excerpt: edge.node.frontmatter.description,
-            image: data.image.childImageSharp.fluid,
+            image: edge.node.frontmatter.image.childImageSharp.fluid,
             slug: edge.node.frontmatter.title.replace(/ /g, '-').toLowerCase()
           }))}
         />
@@ -85,13 +85,6 @@ export const query = graphql`
     headerImage: file(relativePath: { eq: "hero.jpg" }) {
       publicURL
     },
-    image: file(relativePath: { eq: "gatsby-astronaut.png" }) {
-      childImageSharp {
-        fluid {
-          ...GatsbyImageSharpFluid
-        }
-      }
-    },
     blogPosts: allMarkdownRemark(sort: {fields: frontmatter___date, order: DESC}, limit: 2) {
       edges {
         node {
@@ -99,7 +92,13 @@ export const query = graphql`
             title
             date(formatString: "MMMM DD, YYYY")
             description
-            image
+            image {
+              childImageSharp {
+                fluid {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
           }
         }
       }
