@@ -32,14 +32,14 @@ const IndexPage = ({ data }) => {
 
   return (
     <Layout>
-      <SEO title="Two Travelling Aussies"/>
-      <Header 
-        siteTitle="Two Travelling Aussies" 
+      <SEO title="Two Travelling Aussies" />
+      <Header
+        siteTitle="Two Travelling Aussies"
         homeRef={homeRef}
         postsRef={postsRef}
         instagramRef={instagramRef}
         contactRef={contactRef}
-        />
+      />
       <div id="home" className="relative w-full text-center" ref={homeRef}>
         <HeroImage />
         <div className="flex flex-col justfiy-between items-center h-full w-full absolute inset-0">
@@ -54,21 +54,13 @@ const IndexPage = ({ data }) => {
       </div>
       <div id="posts" ref={postsRef}>
         <PostList
-          posts={[
-            {
-              category: "Travel",
-              title: "Exploring the wilds",
-              excerpt: "Veritatis iusto commodi magni quibusdam molestiae. Eaque neque ea sapiente eum est. Fuga nobis et pariatur. Quisquam laudantium expedita necessitatibus. Ut vel dolorem deserunt dignissimos qui in. Aspernatur consequuntur nostrum at aperiam.",
-              image: data.image.childImageSharp.fluid,
-              slug: "page-2"
-            },
-            {
-              category: "Other",
-              title: "Getting to know the locals",
-              excerpt: "Veritatis iusto commodi magni quibusdam molestiae. Eaque neque ea sapiente eum est. Fuga nobis et pariatur. Quisquam laudantium expedita necessitatibus. Ut vel dolorem deserunt dignissimos qui in. Aspernatur consequuntur nostrum at aperiam.",
-              image: data.image.childImageSharp.fluid
-            }
-          ]}
+          posts={data.blogPosts.edges.map(edge => ({
+            category: edge.node.frontmatter.date,
+            title: edge.node.frontmatter.title,
+            excerpt: edge.node.frontmatter.description,
+            image: data.image.childImageSharp.fluid,
+            slug: edge.node.frontmatter.title.replace(/ /g, '-').toLowerCase()
+          }))}
         />
       </div>
       <div id="instagram" className="pt-4 min-h-screen" ref={instagramRef}>
@@ -97,6 +89,18 @@ export const query = graphql`
       childImageSharp {
         fluid {
           ...GatsbyImageSharpFluid
+        }
+      }
+    },
+    blogPosts: allMarkdownRemark(sort: {fields: frontmatter___date, order: DESC}, limit: 2) {
+      edges {
+        node {
+          frontmatter {
+            title
+            date(formatString: "MMMM DD, YYYY")
+            description
+            image
+          }
         }
       }
     },
