@@ -44,7 +44,7 @@ const IndexPage = ({ data }) => {
         <HeroImage />
         <div className="flex flex-col justfiy-between items-center h-full w-full absolute inset-0">
           <div className="flex-1 flex justify-around items-center">
-            <h1 className="border-white border-b-4 py-1 px-4 text-white text-bold text-lg lg:text-3xl tracking-widest uppercase">Always seeking adventure</h1>
+            <h1 className="border-white border-b-4 py-1 px-4 text-white text-bold text-sm md:text-lg lg:text-3xl tracking-widest uppercase">Always seeking adventure</h1>
           </div>
           <div className="flex-1 flex justify-around items-center">
             <Button onClick={(e) => scrollToRef(postsRef)}>Discover</Button>
@@ -82,9 +82,6 @@ const IndexPage = ({ data }) => {
 
 export const query = graphql`
   query {
-    headerImage: file(relativePath: { eq: "hero.jpg" }) {
-      publicURL
-    },
     blogPosts: allMarkdownRemark(sort: {fields: frontmatter___date, order: DESC}, limit: 2) {
       edges {
         node {
