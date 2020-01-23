@@ -32,14 +32,6 @@ const IndexPage = ({ data }) => {
 
   return (
     <Layout>
-      <SEO title="Two Travelling Aussies" />
-      <Header
-        siteTitle="Two Travelling Aussies"
-        homeRef={homeRef}
-        postsRef={postsRef}
-        instagramRef={instagramRef}
-        contactRef={contactRef}
-      />
       <div id="home" className="relative w-full text-center" ref={homeRef}>
         <HeroImage />
         <div className="flex flex-col justfiy-between items-center h-full w-full absolute inset-0">

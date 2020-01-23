@@ -1,21 +1,18 @@
 import React from 'react';
 import { graphql } from 'gatsby'
 
-import Header from "../components/header"
+import Layout from "../components/layout"
 
 export default ({ data }) => {
 
   const { html, frontmatter: { date, title } } = data.markdownRemark 
 
   return (  
-    <div>
-      <Header siteTitle="Two Travelling Aussies" />
-
+    <Layout>
       <h1>{title}</h1>
       <h5>{date}</h5>
-
       <div dangerouslySetInnerHTML={{__html: html}}></div>
-    </div>
+    </Layout>
   )
 }
 
