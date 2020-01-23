@@ -6,6 +6,10 @@
 
 // You can delete this file if you're not using it
 const path = require(`path`)
+const { fmImagesToRelative } = require('gatsby-remark-relative-images');
+exports.onCreateNode = ({ node }) => {
+  fmImagesToRelative(node);
+};
 exports.createPages = async ({ actions, graphql, reporter }) => {
   const { createPage } = actions
   const blogPostTemplate = path.resolve(`src/templates/post.js`)
