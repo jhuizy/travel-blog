@@ -28,7 +28,7 @@ const Layout = ({ children }) => {
 
   return (
     <>
-      <div>
+      <div className="flex flex-col">
         <SEO title={title} />
         <Header siteTitle={title}/>
         <main className="w-full flex justify-content items-center flex-col">{children}</main>
