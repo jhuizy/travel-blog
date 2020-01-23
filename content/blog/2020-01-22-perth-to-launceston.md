@@ -12,9 +12,9 @@ After the stress from the past month, packing, selling, cleaning, open homes and
 
 ![](../../src/images/IMG_0028.jpeg)
 
-![](../../src/images/IMG_0007.jpeg)
 
-Lucky Bay ☘️
+![](../../src/images/IMG_0007.jpeg "Lucky Bay ☘️")
+*Lucky Bay*
 
 - - -
 
@@ -25,8 +25,7 @@ We charged our batteries in Norseman and powered on over the Nullarbor, driving 
 ![](../../src/images/IMG_0014.jpeg)
 
 ![](../../src/images/IMG_0026.jpeg)
-
-Well worth getting out in the rain for some classic tourist pics
+*Well worth getting out in the rain for some classic tourist pics*
 
 ![](../../src/images/IMG_0019.jpeg)
 
@@ -35,20 +34,17 @@ Well worth getting out in the rain for some classic tourist pics
 Christmas Day. Following our 13 hour long drive the day before, our scheduled 8 hour drive to Adelaide today sounded like a breeze. But boy were we wrong! The hours dragged and after what seemed a decade, split by a visit to streaky bay and a quick snap with the giant galah, we arrived safely in Adelaide. And after a day of peanut butter sandwiches and servo pies we were extremely thankful to find that there were restaurants open, so regenerated our Christmas spirit over a nice Christmas dinner.
 
 ![](../../src/images/IMG_0031.jpeg)
-
-Christmas Snap in Streaky Bay
+*Christmas Snap in Streaky Bay*
 
 ![](../../src/images/IMG_0032.jpeg)
-
-The Giant Galah marking the halfway point
+*The Giant Galah marking the halfway point*
 
 - - -
 
 Our day in Adelaide came just in time. We spent Boxing Day exploring the city, doing some sales shopping and just enjoying being able to stretch our legs.
 
 ![](../../src/images/IMG_0047.jpeg)
-
-Claire Bear in her element 🐻
+*Claire Bear in her element 🐻*
 
 - - -
 
@@ -73,31 +69,24 @@ We started the next day with a stop off at Port fairy. We walked around the town
 We continued onto the Great Ocean Road, and talk about busy! Clearly it was peak tourist season. We battled the crowds and heat to get a few snaps of the remaining 7 Apostles, The Grotto, London Arch, Loch Ard Gorge, Bay Of Martyrs and the Bay Of Islands. We even managed to spot some koalas in the Otway national park. Our last day was spent exploring Melbourne before sailing the Bass Straight south, safely arriving in Tasmania.
 
 ![](../../src/images/IMG_0065.jpeg)
-
-Bay of islands
+*Bay of islands*
 
 ![](../../src/images/IMG_0069.jpeg)
-
-The Grotto
+*The Grotto*
 
 ![](../../src/images/IMG_0073.jpeg)
-
-Loch Ard Gorge
+*Loch Ard Gorge*
 
 ![](../../src/images/IMG_0065.jpeg)
-
-Loch Ard Gorge
+*Loch Ard Gorge*
 
 ![](../../src/images/IMG_0071.jpeg)
-
-London Arch
+*London Arch*
 
 ![](../../src/images/IMG_0074.jpeg)
-
-The Twelve Apostles
+*The Twelve Apostles*
 
 - - -
 
 ![](../../src/images/IMG_0114.jpeg)
-
-Hope you all have a fantastic start to 2020!
+*Hope you all have a fantastic start to 2020!*
