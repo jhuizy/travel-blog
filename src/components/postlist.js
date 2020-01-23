@@ -20,6 +20,6 @@ const PostPreview = ({ i, category, title, excerpt, image, slug }) =>
   </div>
 
 export default ({ posts }) =>
-  <div className="flex justify-around items-center min-h-screen w-full">
+  <div className="flex flex-col justify-around items-center min-h-screen w-full">
     {posts.map((post, i) => <PostPreview i={i} {...post} />)}
   </div>
