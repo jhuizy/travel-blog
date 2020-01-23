@@ -3,8 +3,7 @@ import { Link, graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import { HeroImage } from "../components/image"
-import SEO from "../components/seo"
-import Header from "../components/header"
+import Section from "../components/section"
 import PostList from "../components/postlist"
 import Button from '../components/button'
 import InstagramList from "../components/instagramlist"
@@ -44,7 +43,7 @@ const IndexPage = ({ data }) => {
         </div>
 
       </div>
-      <div id="posts" ref={postsRef}>
+      <Section id="posts" ref={postsRef}>
         <PostList
           posts={data.blogPosts.edges.map(edge => ({
             category: edge.node.frontmatter.date,
@@ -54,8 +53,8 @@ const IndexPage = ({ data }) => {
             slug: edge.node.frontmatter.title.replace(/ /g, '-').toLowerCase()
           }))}
         />
-      </div>
-      <div id="instagram" className="pt-4 min-h-screen" ref={instagramRef}>
+      </Section>
+      <div id="instagram" className="pt-4 min-h-screen w-full" ref={instagramRef}>
         <InstagramList
           posts={data.instagrams.edges.map(edge => ({
             id: edge.node.id,
@@ -65,7 +64,7 @@ const IndexPage = ({ data }) => {
           }))}
         />
       </div>
-      <div id="contact" className="pt-4 min-h-screen" ref={contactRef}>
+      <div id="contact" className="pt-4 min-h-screen w-full" ref={contactRef}>
         <Contact />
       </div>
     </Layout>

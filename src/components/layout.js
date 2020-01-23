@@ -31,7 +31,7 @@ const Layout = ({ children }) => {
       <div>
         <SEO title={title} />
         <Header siteTitle={title}/>
-        <main>{children}</main>
+        <main className="w-full flex justify-content items-center flex-col">{children}</main>
         <footer>
           © {new Date().getFullYear()}, Built with
           {` `}
