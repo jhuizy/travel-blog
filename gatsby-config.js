@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `Two Travelling Aussies`,
-    description: `Don't listen to what they say, go and see for yourself`,
-    author: `@jhuizy`,
+    description: `Two travelling aussies on an adventure around the world`,
+    author: `Jordan Huizenga`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -18,7 +18,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `two-travelling-aussies`,
+        name: `Two Travelling Aussies`,
         short_name: `tta`,
         start_url: `/`,
         background_color: `#663399`,
