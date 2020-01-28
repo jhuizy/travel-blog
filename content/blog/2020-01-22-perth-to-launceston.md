@@ -11,6 +11,7 @@ image: /images/IMG_0088.jpeg
 4328 km later, seeing countless number of kangaroos, hours of sitting in the car, numerous slow caravan drivers, 7 apostles, 4 motels, 2 koalas, a giant galah, a dingo, an emu, a giant lobster and a camel we have made it to little old Launceston. So lets fill you in on how the rest of the road trip went:
 
 - - -
+
 After the stress from the past month, packing, selling, cleaning, open homes and quitting jobs it was nice to take some time to relax and explore our first stop: Esperance. To be honest it was just wonderful to have a proper bed to sleep on after weeks of sleeping on an air mattress. Lilly was happy she could stretch her legs, so we left her to go explore what Esperance had to offer.
 
 On some recommendations we checked out Twilight beach and Lucky bay. The beaches of Esperance are very highly rated and from the little time we spent there it was easy to see why. Beautiful squeaky, fine, white sand, kangaroos on the beach and crystal clear water. Just a pity we didn’t have a 4WD to be able to explore more and drive on the beach. 
@@ -27,9 +28,9 @@ After a day of exploring we drove to Norseman to charge our batteries ready to s
 
 Today we were very fortunate the Nullarbor had reopened so didn’t waist any time. Up and about early, we powered on over the Nullarbor driving 13 hours from Norseman to Ceduna. 
 
-Looking back I’m extremely glad we drove West to East, doing the ‘boring’ part first. We were both excited to see what this Nullarbor was all about so the time passed very quickly over the miles of nothing. 
+Looking back I’m extremely glad we drove West to East, doing the ‘boring’ part first. We were both excited to see what this Nullarbor was all about so the time passed very quickly over the miles and miles of nothing. 
 
-We did all the touristy musts; Photos at the boarders (even Lilly managed to get in a few snaps🐰), stopped at a couple of road houses and all the lookouts along the Great Australian Bight. Unfortunately the weather wasn’t very nice so there wasn’t a great deal to see but we took the opportunity to stretch our legs nonetheless. 
+We did all the touristy musts; photos at the boarders (even Lilly managed to get in a few snaps🐰), stopped at a couple of road houses and all the lookouts along the Great Australian Bight. Unfortunately the weather wasn’t very nice so there wasn’t a great deal to see but we took the opportunity to stretch our legs nonetheless. 
 
 ![](/images/IMG_0023.jpeg)
 
@@ -54,12 +55,12 @@ Coupled with fatigue and Christmas Day blues, the hours dragged. And after what 
 After a day of peanut butter sandwiches and servo pies we were extremely thankful to find a restaurant open, so regenerated our Christmas spirit over a nice Christmas dinner. 
 
 - - -
+
 Our planed day in Adelaide came just in time. No driving today! YAY!
 
 We spent Boxing Day exploring the city, doing some sales shopping and just enjoying being able to stretch our legs. 
 
 We found the most amazing Teddy bear shop ever! Not ashamed to say we spent most of the day in here 😂
-
 
 ![](/images/IMG_0047.jpeg) *Claire Bear in her element 🐻*
 
@@ -109,9 +110,8 @@ We ended our day arriving safely at our Airbnb in Melbourne.
 
 We enjoyed a full day relaxing in Melbourne before sailing the Bass Straight south, safely arriving at our end point for our first leg of our journey on the 30th Dec ‘19; Launceston, Tasmania.
 
-
 - - -
 
 ![](/images/IMG_0114.jpeg) *Hope you all have a fantastic start to 2020!*
 
-Follow us on Instagram @twotravellingaussies 
+Follow us on Instagram @twotravellingaussies
