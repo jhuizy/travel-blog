@@ -2,8 +2,9 @@
 title: The Journey Begins
 date: 2019-12-29T12:13:20.497Z
 description: >-
-  Sunday 21st December 2019, after an obligatory selfie, we said good bye to our
-  little housey we called home together… 
+  Taking time off together to travel has always been a dream we have had ever
+  since we met 6 years ago. It is a dream for many that is so easy to talk about
+  but the decision is so much harder to make.
 image: /images/9486F5AF-5354-4B2E-9A31-B429248426D4.jpeg
 ---
 Taking time off together to travel has always been a dream we have had ever since we met 6 years ago. It is a dream for many that is so easy to talk about but the decision is so much harder to make.
