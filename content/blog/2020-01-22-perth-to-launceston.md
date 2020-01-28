@@ -1,7 +1,11 @@
 ---
-title: Perth to Launceston
+title: 'Trekking to Tassie: Perth to Launceston ✔️'
 date: 2020-01-01T09:34:23.237Z
-description: 'Roadtrip from Perth, WA to Launceston, TAS'
+description: >-
+  4328 km later, seeing countless number of kangaroos, hours of sitting in the
+  car, numerous slow caravan drivers, 7 apostles, 4 motels, 2 koalas, a giant
+  galah, a dingo, an emu, a giant lobster and a camel we have made it to little
+  old Launceston.
 image: /images/IMG_0088.jpeg
 ---
 4328 km later, seeing countless number of kangaroos, hours of sitting in the car, numerous slow caravan drivers, 7 apostles, 4 motels, 2 koalas, a giant galah, a dingo, an emu, a giant lobster and a camel we have made it to little old Launceston. So lets fill you in on how the rest of the road trip went:
@@ -12,9 +16,7 @@ After the stress from the past month, packing, selling, cleaning, open homes and
 
 ![](/images/IMG_0028.jpeg)
 
-
-![](/images/IMG_0007.jpeg "Lucky Bay ☘️")
-*Lucky Bay ☘️*
+![](/images/IMG_0007.jpeg "Lucky Bay ☘️") *Lucky Bay ☘️*
 
 - - -
 
@@ -24,8 +26,7 @@ We charged our batteries in Norseman and powered on over the Nullarbor, driving 
 
 ![](/images/IMG_0014.jpeg)
 
-![](/images/IMG_0026.jpeg)
-*Well worth getting out in the rain for some classic tourist pics*
+![](/images/IMG_0026.jpeg) *Well worth getting out in the rain for some classic tourist pics*
 
 ![](/images/IMG_0019.jpeg)
 
@@ -33,18 +34,15 @@ We charged our batteries in Norseman and powered on over the Nullarbor, driving 
 
 Christmas Day. Following our 13 hour long drive the day before, our scheduled 8 hour drive to Adelaide today sounded like a breeze. But boy were we wrong! The hours dragged and after what seemed a decade, split by a visit to streaky bay and a quick snap with the giant galah, we arrived safely in Adelaide. And after a day of peanut butter sandwiches and servo pies we were extremely thankful to find that there were restaurants open, so regenerated our Christmas spirit over a nice Christmas dinner.
 
-![](/images/IMG_0031.jpeg)
-*Christmas Snap in Streaky Bay*
+![](/images/IMG_0031.jpeg) *Christmas Snap in Streaky Bay*
 
-![](/images/IMG_0032.jpeg)
-*The Giant Galah marking the halfway point*
+![](/images/IMG_0032.jpeg) *The Giant Galah marking the halfway point*
 
 - - -
 
 Our day in Adelaide came just in time. We spent Boxing Day exploring the city, doing some sales shopping and just enjoying being able to stretch our legs.
 
-![](/images/IMG_0047.jpeg)
-*Claire Bear in her element 🐻*
+![](/images/IMG_0047.jpeg) *Claire Bear in her element 🐻*
 
 - - -
 
@@ -68,25 +66,18 @@ We started the next day with a stop off at Port fairy. We walked around the town
 
 We continued onto the Great Ocean Road, and talk about busy! Clearly it was peak tourist season. We battled the crowds and heat to get a few snaps of the remaining 7 Apostles, The Grotto, London Arch, Loch Ard Gorge, Bay Of Martyrs and the Bay Of Islands. We even managed to spot some koalas in the Otway national park. Our last day was spent exploring Melbourne before sailing the Bass Straight south, safely arriving in Tasmania.
 
-![](/images/IMG_0065.jpeg)
-*Bay of islands*
+![](/images/IMG_0065.jpeg) *Bay of islands*
 
-![](/images/IMG_0069.jpeg)
-*The Grotto*
+![](/images/IMG_0069.jpeg) *The Grotto*
 
-![](/images/IMG_0073.jpeg)
-*Loch Ard Gorge*
+![](/images/IMG_0073.jpeg) *Loch Ard Gorge*
 
-![](/images/IMG_0065.jpeg)
-*Loch Ard Gorge*
+![](/images/IMG_0065.jpeg) *Loch Ard Gorge*
 
-![](/images/IMG_0071.jpeg)
-*London Arch*
+![](/images/IMG_0071.jpeg) *London Arch*
 
-![](/images/IMG_0074.jpeg)
-*The Twelve Apostles*
+![](/images/IMG_0074.jpeg) *The Twelve Apostles*
 
 - - -
 
-![](/images/IMG_0114.jpeg)
-*Hope you all have a fantastic start to 2020!*
+![](/images/IMG_0114.jpeg) *Hope you all have a fantastic start to 2020!*
