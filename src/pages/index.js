@@ -7,20 +7,12 @@ import Section from "../components/section"
 import PostList from "../components/postlist"
 import Button from '../components/button'
 import InstagramList from "../components/instagramlist"
-import Contact from '../components/contact'
+import Subscribe from '../components/subscribe'
 
 import { scrollToRef } from "../utils/scroll"
 
 import styled from "styled-components"
 import tw from "tailwind.macro"
-
-const ImageText = styled.h1`
-  ${tw`absolute w-full bottom-0 text-white tracking-widest text-3xl text-bold uppercase`}
-`
-
-const ImageContainer = styled.div`
-  ${tw`relative w-full text-center`}
-`
 
 const IndexPage = ({ data }) => {
 
@@ -28,6 +20,7 @@ const IndexPage = ({ data }) => {
   const postsRef = useRef(null)
   const instagramRef = useRef(null)
   const contactRef = useRef(null)
+  const subscribeRef = useRef(null)
 
   return (
     <Layout>
@@ -64,8 +57,8 @@ const IndexPage = ({ data }) => {
           }))}
         />
       </div>
-      <div id="contact" className="pt-4 min-h-screen w-full" ref={contactRef}>
-        <Contact />
+      <div id="subscribe" className="pt-4 min-h-screen w-full" ref={subscribeRef}>
+        <Subscribe />
       </div>
     </Layout>
   )
