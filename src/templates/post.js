@@ -18,19 +18,41 @@ const Markup = styled.div`
   }
 `
 
+export const HTMLContent = ({ content, className }) => (
+  <Markup className={className} dangerouslySetInnerHTML={{ __html: content }} />
+)
+
+export const Content = ({ content, className }) => (
+  <Markup className={className}>{content}</Markup>
+)
+
+export const BlogPostTemplate = ({ title, date, html, component }) => {
+
+  const MarkupComponent = component || Content
+
+  return (
+    <Section>
+      <div className="w-full flex flex-col">
+        <h1 className="text-lg lg:text-3xl my-2">{title}</h1>
+        <h5 className="text-sm lg:text-xl my-2">{date}</h5>
+        <MarkupComponent className="my-2" content={html} />
+      </div>
+    </Section>
+  )
+}
+
 export default ({ data }) => {
 
   const { html, frontmatter: { date, title } } = data.markdownRemark
 
   return (
     <Layout>
-      <Section>
-        <div className="w-full flex flex-col">
-          <h1 className="text-lg lg:text-3xl my-2">{title}</h1>
-          <h5 className="text-sm lg:text-xl my-2">{date}</h5>
-          <Markup className="my-2" dangerouslySetInnerHTML={{ __html: html }}></Markup>
-        </div>
-      </Section>
+      <BlogPostTemplate
+        title={title}
+        date={date}
+        html={html}
+        component={HTMLContent}
+      />
     </Layout>
   )
 }
