@@ -4,10 +4,16 @@ date: 2019-12-29T12:13:20.497Z
 description: >-
   Sunday 21st December 2019, after an obligatory selfie, we said good bye to our
   little housey we called home together… 
-image: /images/IMG_0001.jpeg
+image: /images/9486F5AF-5354-4B2E-9A31-B429248426D4.jpeg
 ---
-Sunday 21st December 2019, after an obligatory selfie, we said good bye to our little housey we called home together for the past 7 months. Emotions running high (mainly stress and frustration trying to squeeze everything in the car) we took off on our first leg of our journey from Perth to Launceston.
+Taking time off together to travel has always been a dream we have had ever since we met 6 years ago. It is a dream for many that is so easy to talk about but the decision is so much harder to make.
 
-Oh and I forgot to mention that our fur baby managed to squeeze her way into the car to come along for the ride 🐰
+Just a short 6 weeks before today we made the daring decision that we were going to pack up our lives in WA and try out life living out of a backpack. So after an obligatory selfie with 'housey' we said good bye to WA.
+
+With Emotions running high (mainly stress and frustration trying to squeeze everything in the car) we took off on our first leg of our journey from Perth to Launceston, to spend some time with Claire's family before seeing where our backpacking journeys will take us.
+
+P.s Forgot to mention, Lilly managed to squeeze her way into the car to come along for the ride (just couldn't bear to leave her behind!). Stay tuned for some classic tourist pics!🐰🚗
 
 ![](/images/IMG_0001.jpeg)
+
+Follow us on Instagram [@twotravellingaussies](https://www.instagram.com/twotravellingaussies)
