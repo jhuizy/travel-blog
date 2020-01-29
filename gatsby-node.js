@@ -6,9 +6,23 @@
 
 // You can delete this file if you're not using it
 const path = require(`path`)
+const { createFilePath } = require(`gatsby-source-filesystem`)
 const { fmImagesToRelative } = require('gatsby-remark-relative-images');
-exports.onCreateNode = ({ node }) => {
+exports.onCreateNode = ({ node, actions, getNode }) => {
   fmImagesToRelative(node);
+
+  // RSS feed config
+  // https://www.gatsbyjs.org/docs/adding-an-rss-feed/
+
+  // const { createNodeField } = actions
+  // if (node.internal.type === `MarkdownRemark`) {
+  //   const value = createFilePath({ node, getNode })
+  //   createNodeField({
+  //     name: node.frontmatter.title.replace(/ /g, '-').toLowerCase(),
+  //     node,
+  //     value,
+  //   })
+  // }
 };
 exports.createPages = async ({ actions, graphql, reporter }) => {
   const { createPage } = actions

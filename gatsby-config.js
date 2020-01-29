@@ -3,6 +3,7 @@ module.exports = {
     title: `Two Travelling Aussies`,
     description: `Two travelling aussies on an adventure around the world`,
     author: `Jordan Huizenga`,
+    siteUrl: `https://twotravellingaussies.com/`
   },
   plugins: [
     `gatsby-plugin-styled-components`,
@@ -85,10 +86,59 @@ module.exports = {
         endpoint: 'https://gmail.us4.list-manage.com/subscribe/post?u=ceb80d2c22f485da453453c1c&amp;id=0ec6199809',
       },
     },
+    {
+      resolve: `gatsby-plugin-feed`,
+      options: {
+        query: `
+            {
+              site {
+                siteMetadata {
+                  title
+                  description
+                  siteUrl
+                  site_url: siteUrl
+                }
+              }
+            }
+          `,
+        feeds: [
+          {
+            serialize: ({ query: { site, allMarkdownRemark } }) => {
+              return allMarkdownRemark.edges.map(edge => {
+                return Object.assign({}, edge.node.frontmatter, {
+                  url: site.siteMetadata.siteUrl + edge.node.frontmatter.title.replace(/ /g, '-').toLowerCase(),
+                  guid: site.siteMetadata.siteUrl + edge.node.frontmatter.title.replace(/ /g, '-').toLowerCase(),
+                  custom_elements: [{ "content:encoded": edge.node.html }],
+                })
+              })
+            },
+            query: `
+                {
+                  allMarkdownRemark(
+                    sort: { order: DESC, fields: [frontmatter___date] },
+                  ) {
+                    edges {
+                      node {
+                        html
+                        frontmatter {
+                          title
+                          date
+                          description
+                        }
+                      }
+                    }
+                  }
+                }
+              `,
+            output: "/rss.xml",
+          },
+        ],
+      },
+    },
     `gatsby-plugin-netlify`,
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
-    
+
   ],
 }
