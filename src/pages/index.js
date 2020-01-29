@@ -71,7 +71,7 @@ export const query = graphql`
         node {
           frontmatter {
             title
-            date(formatString: "MMMM DD, YYYY")
+            date(formatString: "DD MMMM YYYY")
             description
             image {
               childImageSharp {
