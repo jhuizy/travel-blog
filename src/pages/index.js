@@ -66,12 +66,12 @@ const IndexPage = ({ data }) => {
 
 export const query = graphql`
   query {
-    blogPosts: allMarkdownRemark(sort: {fields: frontmatter___date, order: DESC}, limit: 2) {
+    blogPosts: allMarkdownRemark(sort: {fields: frontmatter___date, order: DESC}, limit: 10) {
       edges {
         node {
           frontmatter {
             title
-            date(formatString: "MMMM DD, YYYY")
+            date(formatString: "DD MMMM YYYY")
             description
             image {
               childImageSharp {

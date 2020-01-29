@@ -8,6 +8,7 @@ description: >-
   old Launceston.
 image: /images/IMG_0088.jpeg
 ---
+
 4328 km later, seeing countless number of kangaroos, hours of sitting in the car, numerous slow caravan drivers, 7 apostles, 4 motels, 2 koalas, a giant galah, a dingo, an emu, a giant lobster and a camel we have made it to little old Launceston. So lets fill you in on how the rest of the road trip went:
 
 - - -
