@@ -3,7 +3,9 @@ module.exports = {
     title: `Two Travelling Aussies`,
     description: `Two travelling aussies on an adventure around the world`,
     author: `Jordan Huizenga`,
-    siteUrl: `https://twotravellingaussies.com/`
+    siteUrl: `https://twotravellingaussies.com/`,
+    googleSiteVerification: 'EjT6ZOk_sCjeAn32Y4f8WeuhnU1t6DTkDMrWlUvEdWc'
+
   },
   plugins: [
     `gatsby-plugin-styled-components`,
