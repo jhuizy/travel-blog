@@ -1,5 +1,5 @@
 ---
-title: 'Our Trek to Tassie: Roadtrip from Perth to Launceston'
+title: 'Our Trek to Tassie: from Perth to Launceston'
 date: 2020-01-01T09:34:23.237Z
 description: >-
   4328 km later, seeing countless number of kangaroos, hours of sitting in the
