@@ -4,7 +4,7 @@ date: 2020-01-28T05:04:16.322Z
 description: >-
   Our 6 weeks in Tassie have flown by! Family catchups, relaxation and being
   back to work (for Jordan) has filled our time here very quickly.
-image: /images/5E2749AF-552C-4CA2-A0C6-047053F7D03A.jpeg
+image: /images/blog_IMG_0056.jpeg
 ---
 Our 6 weeks in Tassie have flown by! Family catchups, relaxation and being back to work (for Jordan) has filled our time here very quickly.
 
