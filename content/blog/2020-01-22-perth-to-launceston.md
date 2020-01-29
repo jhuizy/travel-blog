@@ -162,6 +162,8 @@ We enjoyed a full day relaxing in Melbourne before [sailing](https://www.spirito
 
 ![](/images/1D41780C-7FC3-40F0-9DCC-37D0D147A93E.jpeg)
 
+*Happy to see Tasmanian shores* 
+
 - - -
 
 Hope you all have a fantastic start to 2020!
