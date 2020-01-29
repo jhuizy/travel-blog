@@ -106,8 +106,8 @@ module.exports = {
             serialize: ({ query: { site, allMarkdownRemark } }) => {
               return allMarkdownRemark.edges.map(edge => {
                 return Object.assign({}, edge.node.frontmatter, {
-                  url: site.siteMetadata.siteUrl + edge.node.frontmatter.title.replace(/ /g, '-').toLowerCase(),
-                  guid: site.siteMetadata.siteUrl + edge.node.frontmatter.title.replace(/ /g, '-').toLowerCase(),
+                  url: site.siteMetadata.siteUrl + "/" + edge.node.frontmatter.title.replace(/ /g, '-').toLowerCase(),
+                  guid: site.siteMetadata.siteUrl + + "/" + edge.node.frontmatter.title.replace(/ /g, '-').toLowerCase(),
                   custom_elements: [{ "content:encoded": edge.node.html }],
                 })
               })
