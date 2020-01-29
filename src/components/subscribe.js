@@ -80,7 +80,7 @@ export default ({ props }) => {
   return (
     <Container className="container">
       <form onSubmit={handleSubmit}>
-        <h2>Subscribe to my email list!</h2>
+        <h2>Subscribe to recieve email updates</h2>
         <div className="subscribe">
           <input
             placeholder="Email address"
@@ -93,13 +93,14 @@ export default ({ props }) => {
 
         {state === STATE_ERR &&
           <div className="error">
-            <span>Something went wrong, are you already subscribed?...</span>
+            <div>Something went wrong, have you already subscribed?...</div>
           </div>
         }
 
         {state === STATE_OK &&
           <div className="success">
-            <span>Thank you for subscribing!</span>
+            <div>Thanks for subscribing!</div>
+            <div>Check your junk mail folder if you don't receive an email soon</div>
           </div>
         }
       </form>
