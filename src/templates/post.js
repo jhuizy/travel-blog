@@ -20,6 +20,10 @@ const Markup = styled.div`
   hr {
     ${tw`h-1`}
   }
+
+  a {
+    ${tw`text-underline`}
+  }
 `
 
 export default ({ data }) => {
