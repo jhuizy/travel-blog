@@ -19,7 +19,7 @@ const createClickHandler = (ref, id) => (e) => {
   navigate(`/#${id}`)
 }
 
-export default ({ siteTitle, homeRef, postsRef, instagramRef, contactRef }) => {
+export default ({ siteTitle, homeRef, postsRef, instagramRef, subscribeRef }) => {
 
   const [isOpen, setOpen] = useState(false)
 
@@ -47,7 +47,7 @@ export default ({ siteTitle, homeRef, postsRef, instagramRef, contactRef }) => {
             <MenuItem onClick={createClickHandler(homeRef, "home")}><h6>Home</h6></MenuItem>
             <MenuItem onClick={createClickHandler(postsRef, "posts")}><h6>Posts</h6></MenuItem>
             <MenuItem onClick={createClickHandler(instagramRef, "instagram")}><h6>Instagram</h6></MenuItem>
-            <MenuItem onClick={createClickHandler(contactRef, "contact")}><h6>Contact</h6></MenuItem>
+            <MenuItem onClick={createClickHandler(subscribeRef, "subscribe")}><h6>Subscribe</h6></MenuItem>
           </div>
         </div>
       </div>
@@ -57,7 +57,7 @@ export default ({ siteTitle, homeRef, postsRef, instagramRef, contactRef }) => {
           <MobileMenuItem onClick={createClickHandler(homeRef, "home")}><h6>Home</h6></MobileMenuItem>
           <MobileMenuItem onClick={createClickHandler(postsRef, "posts")}><h6>Posts</h6></MobileMenuItem>
           <MobileMenuItem onClick={createClickHandler(instagramRef, "instagram")}><h6>Instagram</h6></MobileMenuItem>
-          <MobileMenuItem onClick={createClickHandler(contactRef, "contact")}><h6>Contact</h6></MobileMenuItem>
+          <MobileMenuItem onClick={createClickHandler(subscribeRef, "subscribe")}><h6>Subscribe</h6></MobileMenuItem>
         </div>
       )}
     </div>
