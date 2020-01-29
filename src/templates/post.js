@@ -16,6 +16,14 @@ const Markup = styled.div`
       ${tw`w-full text-center block`}
     }
   }
+
+  hr {
+    ${tw`h-1`}
+  }
+
+  a {
+    ${tw`text-underline`}
+  }
 `
 
 export default ({ data }) => {
