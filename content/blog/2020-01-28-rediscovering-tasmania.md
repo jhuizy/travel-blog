@@ -100,11 +100,11 @@ Saturday 18th January: It was mentioned to Jordan and I, that to prepare for our
 
 ![](/images/blog_IMG_0057.jpeg)
 
-We decided that if our South American Hikes are similar we will be just fine.
+We decided that if our South American hikes are similar we will be just fine.
 
 - - -
 
-We decided that if our South American Hikes are similar we will be just fine.
+After practising our hiking at the Gorge, and deciding we need to try something a little more challenging, we thought we’d use the upcoming long weekend to try out some trails around Cradle mountain.
 
 So we booked some accomodation and took a road trip to Cradle Mountain.
 
