@@ -18,13 +18,27 @@ We arrived in Tassie just in time to celebrate New Years. We celebrated very tra
 
 ![](/images/blog_IMG_0037.jpeg)
 
-![](/images/blog_IMG_0038.jpeg)
+*Dad’s oliebollen never disappoint 😋* 
+
+To pass the time we then thought we’d check out what Beerfest had to offer, which, we soon found out wasn’t much. But while the beer was a little disappointing at least we had good company. 
 
 ![](/images/485DFCAC-909A-4D05-B3B5-07604DB01234.jpeg)
 
+- - -
+
+While Jordan still had some time off from work we ventured down to the east coast town of St Helens. 
+
 ![](/images/blog_IMG_0039.jpeg)
 
+*Sunset over St Georges Bay*
+
+Since our last visit, [mountain biking](https://www.sthelensmtbtrails.com.au/) has become a large attraction in St Helens. Enjoying a bit of adventure, we thought we’d give it a go.
+
+We rode from town up to the flagstaff trail head and we soon worked out why the shop had no e-bikes left to hire out 🥵 
+
 ![](/images/blog_IMG_0040.jpeg)
+
+We hired our bikes from Giant St Helens, Unfortunately they were out of e-bikes but we were happy with the Rein 29 and eager to to go try them out on the trails. 
 
 ![](/images/blog_IMG_0041.jpeg)
 
