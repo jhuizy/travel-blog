@@ -50,23 +50,47 @@ While the trails were mostly composed of uphill climbs, and quite challenging, w
 
 We ventured down to Hobart staying in a lovely [airbnb](https://www.airbnb.com.au/rooms/30115761?source_impression_id=p3_1580184016_pfL4kcZKXKl3%2FHCg). Unfortunately the festive season had come to an end so Jordan set up his office and got to work.
 
-![](/images/blog_IMG_0041.jpeg)
+![](/images/blog_IMG_0044.jpg)
 
-![](/images/blog_IMG_0042.jpeg)
+*Office with a view*
 
-![](/images/blog_IMG_0043.jpeg)
+I spent some time with my parents shopping and exploring around Hobart.
 
-![](/images/blog_IMG_0044.jpeg)
+![](/images/blog_IMG_0043.jpg)
 
-![](/images/DD3AD36A-CE07-4B5D-93E0-45ABD03AB6DD.jpeg)
+*Lunch time at [Machine Laundry Cafe](https://www.facebook.com/pages/Machine-Laundry-Cafe/113296732063100)*
+
+*\- - -*
+
+Mum and I had a day to ourselves so took the time to wonder down to the [Westerway Raspberry Farm](https://www.lanoma.com.au). Here we could pick our own berries. Such a worthwhile drive for some delicious fresh berries.
 
 ![](/images/blog_IMG_0045.jpeg)
 
 ![](/images/blog_IMG_0046.jpeg)
 
-![](/images/blog_IMG_0047.jpeg)
+*Our pickings*
 
-![](/images/blog_IMG_0048.jpeg)
+\- - -
+
+We headed back up to Launceston and continued to find things to do to pass the days.
+
+January 11th we thought we’d check out what the locals were doing at the Carrick Rodeo. It was an entertainment filled night filled with ‘oohs’ ‘ahhhhs’ and ‘OUCHes’.
+
+![](/images/DD3AD36A-CE07-4B5D-93E0-45ABD03AB6DD.jpeg)
+
+\- - -
+
+Making the most of the berry season mum and I woke up early one morning (too early for the boys) to cash in on the first day of blueberry picking at [Crestview Blueberries](https://www.facebook.com/Crestview-Blueberries-835034803205526/). Safe to say we picked our year’s supply of blueberries, and it only took an hour!😄
+
+![](/images/blog_IMG_0053.jpeg)
+
+![](/images/blog_IMG_0052.jpeg)
+
+![](/images/blog_IMG_0051.jpeg)
+
+![](/images/blog_IMG_0054.jpg)
+
+\- - -
 
 ![](/images/blog_IMG_0049.jpeg)
 
