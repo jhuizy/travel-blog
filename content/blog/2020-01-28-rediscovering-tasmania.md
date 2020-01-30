@@ -18,6 +18,8 @@ We arrived in Tassie just in time to celebrate New Years. We celebrated very tra
 
 ![](/images/blog_IMG_0037.jpeg)
 
+![](/images/blog_IMG_0038.jpeg)
+
 *Dad’s oliebollen never disappoint 😋* 
 
 To pass the time we then thought we’d check out what Beerfest had to offer, which, we soon found out wasn’t much. But while the beer was a little disappointing at least we had good company. 
@@ -34,11 +36,19 @@ While Jordan still had some time off from work we ventured down to the east coas
 
 Since our last visit, [mountain biking](https://www.sthelensmtbtrails.com.au/) has become a large attraction in St Helens. Enjoying a bit of adventure, we thought we’d give it a go.
 
+![](/images/blog_IMG_0041.jpg)
+
+We hired our bikes from [Giant St Helens](https://www.giantsthelens.com), Unfortunately they were out of e-bikes but we were happy with the Rein 29 and eager to to go try them out on the trails.
+
 We rode from town up to the flagstaff trail head and we soon worked out why the shop had no e-bikes left to hire out 🥵 
 
-![](/images/blog_IMG_0040.jpeg)
+While the trails were mostly composed of uphill climbs, and quite challenging, we still had a very enjoyable day riding around.
 
-We hired our bikes from Giant St Helens, Unfortunately they were out of e-bikes but we were happy with the Rein 29 and eager to to go try them out on the trails. 
+![](/images/blog_IMG_0042.jpeg)
+
+- - -
+
+We ventured down to Hobart staying in a lovely [airbnb](https://www.airbnb.com.au/rooms/30115761?source_impression_id=p3_1580184016_pfL4kcZKXKl3%2FHCg). Unfortunately the festive season had come to an end so Jordan set up his office and got to work.
 
 ![](/images/blog_IMG_0041.jpeg)
 
