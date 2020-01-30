@@ -120,8 +120,8 @@ Oh and for those wondering about Lilly, she is settling into Tasmanian life just
 
 - - -
 
-Ps. Jordan has been finding every spare moment make this website (even a park bench!) All future posts will now be via this new page so subscribe if you want to keep in touch! 😊
+Ps. Jordan has been finding every spare moment make this website (even a park bench!) All future posts will now be via this new page so [subscribe](https://twotravellingaussies.com/#subscribe) if you want to keep in touch! 😊
 
 ![](/images/C4BB4D5F-5556-42E8-A1E2-7086326D03CE.jpeg)
 
-Follow us on Instagram @twotravellingaussies
+Follow us on Instagram [@twotravellingaussies](https://www.instagram.com/twotravellingaussies/)
