@@ -114,6 +114,8 @@ What an amazing place! So much so we’re going to write about it in its own pos
 
 Oh and for those wondering about Lilly, she is settling into Tasmanian life just fine.🐰
 
+![](/images/E1187ACF-613C-4034-95A9-56225D587DE4.jpeg)
+
 - - -
 
 Ps. Jordan has been finding every spare moment make this website (even a park bench!) All future posts will now be via this new page so subscribe if you want to keep in touch! 😊
