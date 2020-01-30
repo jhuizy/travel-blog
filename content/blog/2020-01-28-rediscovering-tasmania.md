@@ -96,9 +96,15 @@ Saturday 18th January: It was mentioned to Jordan and I, that to prepare for our
 
 ![](/images/blog_IMG_0056.jpeg)
 
-
-
 ![](/images/blog_IMG_0055.jpeg)
+
+![](/images/blog_IMG_0057.jpeg)
+
+We decided that if our South American Hikes are similar we will be just fine.
+
+\- - -
+
+
 
 - - -
 
