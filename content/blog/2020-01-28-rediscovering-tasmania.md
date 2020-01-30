@@ -104,11 +104,21 @@ We decided that if our South American Hikes are similar we will be just fine.
 
 \- - -
 
+We decided that if our South American Hikes are similar we will be just fine.
 
+So we booked some accomodation and took a road trip to Cradle Mountain.
+
+
+
+What an amazing place! So much so we’re going to write about it in its own post. So stay tuned!
+
+\- - -
+
+Oh and for those wondering about Lilly, she is settling into Tasmanian life just fine.🐰
 
 - - -
 
-Ps. Jordan has been finding every spare moment make this website (even a park bench!) All future posts will now be via this new page so subscribe so you don’t miss a beat 😊
+Ps. Jordan has been finding every spare moment make this website (even a park bench!) All future posts will now be via this new page so subscribe if you want to keep in touch! 😊
 
 ![](/images/C4BB4D5F-5556-42E8-A1E2-7086326D03CE.jpeg)
 
