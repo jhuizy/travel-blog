@@ -108,6 +108,8 @@ We decided that if our South American Hikes are similar we will be just fine.
 
 So we booked some accomodation and took a road trip to Cradle Mountain.
 
+![](/images/173023DB-48DB-499F-8222-22460F9F4CFB.jpeg)
+
 What an amazing place! So much so we’re going to write about it in its own post. So stay tuned!
 
 - - -
