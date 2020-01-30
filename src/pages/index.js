@@ -16,6 +16,8 @@ import tw from "tailwind.macro"
 
 const IndexPage = ({ data }) => {
 
+  console.log(`data = ${JSON.stringify(data, null, 2)}`);
+
   const homeRef = useRef(null)
   const postsRef = useRef(null)
   const instagramRef = useRef(null)
@@ -37,13 +39,22 @@ const IndexPage = ({ data }) => {
 
       </div>
       <Section id="posts" ref={postsRef}>
-        <PostList
+        {/* <PostList
           posts={data.blogPosts.edges.map(edge => ({
             category: edge.node.frontmatter.date,
             title: edge.node.frontmatter.title,
             excerpt: edge.node.frontmatter.description,
             image: edge.node.frontmatter.image.childImageSharp.fluid,
             slug: edge.node.frontmatter.title.replace(/ /g, '-').toLowerCase()
+          }))}
+        /> */}
+        <PostList
+          posts={data.wordpressPosts.edges.map(edge => ({
+            category: edge.node.date,
+            title: edge.node.title,
+            excerpt: edge.node.excerpt,
+            image: edge.node.jetpack_featured_media_url,
+            slug: edge.node.slug
           }))}
         />
       </Section>
@@ -81,6 +92,17 @@ export const query = graphql`
               }
             }
           }
+        }
+      }
+    },
+    wordpressPosts: allWordpressPost(sort: {fields: date, order: DESC}, limit: 3) {
+      edges {
+        node {
+          date(formatString: "DD MMMM YYYY")
+          excerpt
+          slug
+          title
+          jetpack_featured_media_url
         }
       }
     },

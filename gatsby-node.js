@@ -13,6 +13,39 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
 exports.createPages = async ({ actions, graphql, reporter }) => {
   const { createPage } = actions
   const blogPostTemplate = path.resolve(`src/templates/post.js`)
+  const wordpressPostTemplate = path.resolve(`src/templates/wordpressPost.js`)
+
+  const wordpressResults = await graphql(`
+    {
+      allWordpressPost(sort: { fields: [date] }) {
+        edges {
+          node {
+            title
+            excerpt
+            content
+            slug
+          }
+        }
+      }
+    }
+  `)
+
+  // Handle errors
+  if (wordpressResults.errors) {
+    reporter.panicOnBuild(`Error while running GraphQL query.`)
+    return
+  }
+
+  wordpressResults.data.allWordpressPost.edges.forEach(({ node }) => {
+    createPage({
+      path: node.slug,
+      component: wordpressPostTemplate,
+      context: {
+        slug: node.slug,
+      }, // additional data can be passed via context
+    })
+  })
+
   const result = await graphql(`
     {
       allMarkdownRemark(
