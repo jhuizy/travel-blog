@@ -60,7 +60,7 @@ I spent some time with my parents shopping and exploring around Hobart.
 
 *Lunch time at [Machine Laundry Cafe](https://www.facebook.com/pages/Machine-Laundry-Cafe/113296732063100)*
 
-*\- - -*
+- - -
 
 Mum and I had a day to ourselves so took the time to wonder down to the [Westerway Raspberry Farm](https://www.lanoma.com.au). Here we could pick our own berries. Such a worthwhile drive for some delicious fresh berries.
 
@@ -70,7 +70,7 @@ Mum and I had a day to ourselves so took the time to wonder down to the [Westerw
 
 *Our pickings*
 
-\- - -
+- - -
 
 We headed back up to Launceston and continued to find things to do to pass the days.
 
@@ -78,7 +78,7 @@ January 11th we thought we’d check out what the locals were doing at the Carri
 
 ![](/images/DD3AD36A-CE07-4B5D-93E0-45ABD03AB6DD.jpeg)
 
-\- - -
+- - -
 
 Making the most of the berry season mum and I woke up early one morning (too early for the boys) to cash in on the first day of blueberry picking at [Crestview Blueberries](https://www.facebook.com/Crestview-Blueberries-835034803205526/). Safe to say we picked our year’s supply of blueberries, and it only took an hour!😄
 
@@ -90,7 +90,7 @@ Making the most of the berry season mum and I woke up early one morning (too ear
 
 ![](/images/blog_IMG_0054.jpg)
 
-\- - -
+- - -
 
 Saturday 18th January: It was mentioned to Jordan and I, that to prepare for our South American trekking we’d better do the Zigzag and Duckreach Tracks at The Gorge. So that’s exactly what we did. We got together our day bags and set off for a nice walk through the Gorge.
 
@@ -102,17 +102,15 @@ Saturday 18th January: It was mentioned to Jordan and I, that to prepare for our
 
 We decided that if our South American Hikes are similar we will be just fine.
 
-\- - -
+- - -
 
 We decided that if our South American Hikes are similar we will be just fine.
 
 So we booked some accomodation and took a road trip to Cradle Mountain.
 
-
-
 What an amazing place! So much so we’re going to write about it in its own post. So stay tuned!
 
-\- - -
+- - -
 
 Oh and for those wondering about Lilly, she is settling into Tasmanian life just fine.🐰
 
