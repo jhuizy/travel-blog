@@ -53,7 +53,7 @@ const IndexPage = ({ data }) => {
             category: edge.node.date,
             title: edge.node.title,
             excerpt: edge.node.excerpt,
-            image: edge.node.jetpack_featured_media_url,
+            image: edge.node.featuredImageFile.childImageSharp.fluid,
             slug: edge.node.slug
           }))}
         />
@@ -102,7 +102,13 @@ export const query = graphql`
           excerpt
           slug
           title
-          jetpack_featured_media_url
+          featuredImageFile {
+            childImageSharp {
+              fluid {
+                ...GatsbyImageSharpFluid
+              }
+            }
+          }
         }
       }
     },

@@ -77,3 +77,34 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     })
   })
 }
+
+const { createRemoteFileNode } = require(`gatsby-source-filesystem`)
+exports.createResolvers = (
+  {
+    actions,
+    cache,
+    createNodeId,
+    createResolvers,
+    store,
+    reporter,
+  },
+) => {
+  const { createNode } = actions
+  createResolvers({
+    wordpress__POST: {
+      featuredImageFile: {
+        type: `File`,
+        resolve(source, args, context, info) {
+          return createRemoteFileNode({
+            url: source.jetpack_featured_media_url,
+            store,
+            cache,
+            createNode,
+            createNodeId,
+            reporter,
+          })
+        },
+      },
+    },
+  })
+}

@@ -61,7 +61,17 @@ module.exports = {
         hostingWPCOM: true,
         // If useACF is true, then the source plugin will try to import the WordPress ACF Plugin contents.
         // This feature is untested for sites hosted on WordPress.com
-        useACF: true,
+        useACF: false,
+        plugins: [
+          {
+            resolve: `gatsby-wordpress-inline-images`,
+            options: {
+              baseUrl: `twotravellingaussies.wordpress.com`,
+              protocol: `https`,
+              maxWidth: 1200,
+            }
+          }
+        ]
       },
     },
     `gatsby-plugin-netlify-cms`,
