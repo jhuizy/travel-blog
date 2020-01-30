@@ -92,6 +92,8 @@ Making the most of the berry season mum and I woke up early one morning (too ear
 
 \- - -
 
+Saturday 18th January: It was mentioned to Jordan and I, that to prepare for our South American trekking we’d better do the Zigzag and Duckreach Tracks at The Gorge. So that’s exactly what we did. We got together our day bags and set off for a nice walk through the Gorge.
+
 ![](/images/blog_IMG_0049.jpeg)
 
 ![](/images/E1187ACF-613C-4034-95A9-56225D587DE4.jpeg)
