@@ -13,15 +13,23 @@ const Markup = styled.div`
   
   p {
     ${tw`my-4`}
+  }
 
-    em {
-      ${tw`w-full text-center block`}
-    }
+  figcaption {
+    ${tw`w-full text-center block italic`}
   }
 
   hr {
     ${tw`ml-auto mr-auto w-1/2`}
     height: 2px;
+  }
+
+  img {
+    ${tw`mb-1`}
+  }
+
+  figure {
+    ${tw`m-4`}
   }
 
   a {

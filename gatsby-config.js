@@ -68,7 +68,7 @@ module.exports = {
             options: {
               baseUrl: `twotravellingaussies.wordpress.com`,
               protocol: `https`,
-              maxWidth: 1200,
+              maxWidth: 590,
             }
           }
         ]
