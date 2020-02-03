@@ -58,18 +58,20 @@ The Face Track was hard. It was very steep and slowed us down considerably. But 
 
 It reminded us why we love hiking so much. While it may be hard, the view is ALWAYS worth it. It lets you appreciate the amazing creation we have around us and allows you to see the almighty power of our God in this world. 
 
-![]()
+![](/images/30D0C1B4-DCC2-416A-8D0E-CB529BA6BA16.jpeg)
 
 *Looking up at the summit*
 
-![]()
+![](/images/9280B6B2-57E0-4871-AA3B-4D25A701A9D6.jpeg)
 
 We went down to Dove Lake via Lake Wilks. As we descended, the weather cleared up, the rain stoped and we could enjoy finishing our hike with a pleasant walk around Dove lake. 
 
-![]()
+![](/images/B5EB012E-AC36-42F7-804F-D7A76FA787AC.jpeg)
 
-4hrs 30min and 13.10km we arrived back at the bus at Dove lake. We headed back to our accomodation to relax for the afternoon to see what the next day of adventuring would bring.
+4hrs 30min and 13.10km we arrived back at the bus at Dove lake. We headed back to our accomodation to relax for the afternoon to ready see what the next day of adventuring would bring.
 
-![]()
+![](/images/82A8173A-903A-47B4-B651-649C47419D42.jpeg)
+
+*The Adventures of day 1*
 
 - - -
