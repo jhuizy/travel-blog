@@ -54,16 +54,22 @@ From Kitchen Hut it is a further 2.5hrs to the summit and back. We started walki
 
 At this stage we had already been waking for over 2.5hrs. We were starting to get cold and were ready to start heading back. We started heading along the Face Track, planning on making our way back to the Dove Lake bus stop to get a ride back to our car. 
 
-At this stage we had already been waking for over 2.5hrs. We were starting to get cold and were ready to start heading back. We started heading along the Face Track, planning on making our way back to the Dove Lake bus stop to get a ride back to our car. 
-
 The Face Track was hard. It was very steep and slowed us down considerably. But this let us stop and admire what was around us. The low lying clouds and rain made the summit look absolutely amazing from down below. 
 
 It reminded us why we love hiking so much. While it may be hard, the view is ALWAYS worth it. It lets you appreciate the amazing creation we have around us and allows you to see the almighty power of our God in this world. 
 
+![]()
+
 *Looking up at the summit*
+
+![]()
 
 We went down to Dove Lake via Lake Wilks. As we descended, the weather cleared up, the rain stoped and we could enjoy finishing our hike with a pleasant walk around Dove lake. 
 
+![]()
+
 4hrs 30min and 13.10km we arrived back at the bus at Dove lake. We headed back to our accomodation to relax for the afternoon to see what the next day of adventuring would bring.
+
+![]()
 
 - - -
