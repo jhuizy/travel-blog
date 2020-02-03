@@ -34,4 +34,4 @@ As we continued on to Marions Lookout the clouds began to close in. By the time 
 
 ![](/images/E0FE27BB-60AD-4CBC-BD31-255C60B7425D.jpeg)
 
-But we remained hopeful to reach the summit knowing that the weather can change in a matter of minutes. After all we were in Tassie!
+But we remained hopeful to reach the summit knowing that the weather can change in a matter of minutes. After all, this is Tasmania!
