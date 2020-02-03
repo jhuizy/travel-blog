@@ -35,3 +35,17 @@ As we continued on to Marions Lookout the clouds began to close in. By the time 
 ![](/images/E0FE27BB-60AD-4CBC-BD31-255C60B7425D.jpeg)
 
 But we remained hopeful to reach the summit knowing that the weather can change in a matter of minutes. After all, this is Tasmania!
+
+The weather did change, but not in our favour. It started pouring down! So we got out our wet weather gear and marched on. 
+
+![](/images/86E40FC5-509C-4A7B-887E-FD13DB626866.jpeg)
+
+*Jordan battling the wind and the rain to get his jacket on*
+
+![](/images/F55922C3-FE28-464F-BBC3-6A3D5946EB4E.jpeg)
+
+At this point the rain had set in. The tracks were starting to become rivers and visibility was very low. Dispite this our wet weather gear was doing it’s job fantastically. We were still pretty dry and making it to Kitchen Hut put a smile back on our faces.
+
+![](/images/A3129977-10B6-4DDF-BECD-CE40DBC55DF6.jpeg)
+
+*Kitchen Hut*
