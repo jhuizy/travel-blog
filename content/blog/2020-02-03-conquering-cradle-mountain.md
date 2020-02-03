@@ -18,8 +18,20 @@ We arrived late Friday night, checked the BOM radar and were happy to see the pr
 
 - - -
 
-Excited, we woke early on Saturday ready to conquer Cradle Mountain. After a good breakfast we drove to the visitors centre where we boarded the shuttle bus to take us into the park. Ronny Creek was our first stop where we planned to starot our hike. It was clear already here when we hopped off the bus that we hadn’t picked the nicest day for a walk, but we were already there excited and prepared so we registered our walk and set off anyway. 
+Excited, we woke early on Saturday ready to conquer Cradle Mountain. After a good breakfast we drove to the visitors centre where we boarded the shuttle bus to take us into the park. Ronny Creek was our first stop where we planned to start our hike. It was clear already here, when we hopped off the bus, that we hadn’t picked the nicest day for a walk. But we were already there, excited and prepared so we registered our walk and set off anyway. 
 
 ![](/images/F57968C6-15DB-4AB6-9F96-E47CD71BA7AC.jpeg)
 
 *Ronny Creek*
+
+We headed along the Overland track, past Crater Falls and stopped on Wombat Peak for some morning tea. At this point there were some low lying clouds hanging about so we couldn’t see the top of the mountains but could still over look Lake Lilla and Dove Lake.
+
+![](/images/4C1C9CC6-511A-4C02-AC0E-A01B0BDA98C4.jpeg)
+
+*The view from Wombat Peak*
+
+As we continued on to Marions Lookout the clouds began to close in. By the time we reached the lookout we couldn’t even see Dove Lake!
+
+![](/images/E0FE27BB-60AD-4CBC-BD31-255C60B7425D.jpeg)
+
+But we remained hopeful to reach the summit knowing that the weather can change in a matter of minutes. After all we were in Tassie!
