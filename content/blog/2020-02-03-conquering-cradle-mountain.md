@@ -51,3 +51,17 @@ At this point the rain had set in. The tracks were starting to become rivers and
 *Kitchen Hut*
 
 From Kitchen Hut it is a further 2.5hrs to the summit and back. We started walking up the track but 15 minutes in it was apparent that the rain was only going to get worse the higher we climbed. And to top it off half the track was underwater. So we made the executive decision to turn back. We were not going to conquer the summit today.
+
+At this stage we had already been waking for over 2.5hrs. We were starting to get cold and were ready to start heading back. We started heading along the Face Track, planning on making our way back to the Dove Lake bus stop to get a ride back to our car. 
+
+The Face Track was hard. It was very steep and slowed us down considerably. But this let us stop and admire what was around us. The low lying clouds and rain made the summit look absolutely amazing from down below. 
+
+It reminded us why we love hiking so much. While it may be hard, the view is ALWAYS worth it. It lets you appreciate the amazing creation we have around us and allows you to see the almighty power of our God in this world. 
+
+
+
+*Looking up at the summit*
+
+
+
+4hrs 30min and 13.10km later we made it onto the bus at Dove lake.
