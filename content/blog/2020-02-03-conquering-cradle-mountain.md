@@ -14,11 +14,11 @@ We had been watching the weather for the past week wondering if it was worth hea
 
 ![](/images/FDBDCAF3-5971-4805-B552-CB41A0A27896.jpeg)
 
-We arrived late Friday night, checked the BOM radar and were happy to see the precipitation forecast for saturday was 0mm. With our sites set on hiking the summit we got our day packs ready and got in a good nights sleep ready for our big hike early the next morning. 
+We arrived late Friday night, checked the BOM radar and were happy to see the precipitation forecast for Saturday was 0mm. With our sites set on hiking the summit we got our day packs ready and got in a good nights sleep ready for our big hike early the next morning. 
 
 - - -
 
-Excited, we woke early on Saturday ready to conquer Cradle Mountain. After a good breakfast we drove to the visitors centre where we boarded the shuttle bus to take us into the park. Ronny Creek was our first stop where we planned to start our hike. It was clear already here, when we hopped off the bus, that we hadn’t picked the nicest day for a walk. But we were already there, excited and prepared so we registered our walk and set off anyway. 
+Excited, we woke early on Saturday ready to conquer Cradle Mountain. After a good breakfast we drove to the visitors centre where we boarded the shuttle bus to take us into the park. Ronny Creek was our first stop where we planned to start our hike. It was clear already here, when we hopped off the bus, that we hadn’t picked the nicest day for a walk. But we were in the park, excited and prepared so we registered our walk and set off anyway. 
 
 ![](/images/F57968C6-15DB-4AB6-9F96-E47CD71BA7AC.jpeg)
 
@@ -44,8 +44,10 @@ The weather did change, but not in our favour. It started pouring down! So we go
 
 ![](/images/F55922C3-FE28-464F-BBC3-6A3D5946EB4E.jpeg)
 
-At this point the rain had set in. The tracks were starting to become rivers and visibility was very low. Dispite this our wet weather gear was doing it’s job fantastically. We were still pretty dry and making it to Kitchen Hut put a smile back on our faces.
+At this point the rain had set in. The tracks were starting to become rivers and visibility was very low. Dispite this our wet weather gear was doing it’s job fantastically. We were still pretty dry and arriving at Kitchen Hut put a smile back on our faces.
 
 ![](/images/A3129977-10B6-4DDF-BECD-CE40DBC55DF6.jpeg)
 
 *Kitchen Hut*
+
+From Kitchen Hut it is a further 2.5hrs to the summit and back. We started walking up the track but 15 minutes in it was apparent that the rain was only going to get worse the higher we climbed. And to top it off half the track was underwater. So we made the executive decision to turn back. We were not going to conquer the summit today.
