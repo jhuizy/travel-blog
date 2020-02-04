@@ -98,8 +98,6 @@ From Marions lookout we walked back around to Crater Lake, back along a section 
 
 We ended todays walk at Ronny Creek,  caught the bus back to our car and headed back to the hotel to call it a day.
 
-
-
 *The Adventures of Day 2*
 
 - - -
@@ -114,6 +112,16 @@ Although the clouds were still over Cradle Mountain, the view from Hansons Peak 
 
 ![]()
 
-From Hansons Peak we condinued on back down the other side, up little horn and taking the same route as Saturday down to Dove lake. It was great to actually be able to see more than 2m in front of us and actually take in the view 😂 
+From Hansons Peak we condinued on back down the other side, up little horn and stopping for our classic banana and peanut butter sandwich lunch.
 
 ![]()
+
+Taking the same route as Saturday, we walked down past Lake Wilks back down to Dove lake. It was great to actually be able to see more than 2m in front of us and be able take in the view 😂 
+
+![]()
+
+By the time we got back around Dove Lake to the boat shed she clouds had completely cleared, the sun was out and we were able to get the classic Cradle Mountain photo. 
+
+![]()
+
+We said our goodbyes to Cradle Mountain, boarded the bus back to our car and headed back home.
