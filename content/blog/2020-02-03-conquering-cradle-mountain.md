@@ -114,22 +114,30 @@ Making the most of our last day we packed our day bags and once again headed to 
 
 We took the shuttle bus to Dove Lake and started hiking from there. Learning from the last two days we came prepared! Gloves, beanies, layers, comfy socks, we were ready for a good day of hiking. 
 
-![]()
+![](/images/71D97400-323F-4CD9-93FE-C4A483CE981F.jpeg)
 
-Although the clouds were still over Cradle Mountain, the view from Hansons Peak were amazing: Not only looking towards Cradle Mountain but also back towards Mt Emmett. 
+Although the clouds were still over Cradle Mountain, the view from Hansons Peak was amazing: Not only looking towards Cradle Mountain but also back towards Mt Emmett. 
 
-![]()
+![](/images/91EDD771-8A81-4A8E-AB33-849D0E9B559B.jpeg)
 
-From Hansons Peak we condinued on back down the other side, up little horn and stopping for our classic banana and peanut butter sandwich lunch.
+*Looking back towards Mt Emmett*
 
-![]()
+![](/images/99FCC467-BE53-40EA-A207-0343411F5C2B.jpeg)
 
-Taking the same route as Saturday, we walked down past Lake Wilks back down to Dove lake. It was great to actually be able to see more than 2m in front of us and be able take in the view 😂 
+From Hansons Peak we continued on, back down the other side, up little horn and stopping for our classic banana and peanut butter sandwich lunch.
 
-![]()
+![](/images/82AF0528-61C7-45CF-B735-8B1A96E69649.jpeg)
 
-By the time we got back around Dove Lake to the boat shed she clouds had completely cleared, the sun was out and we were able to get the classic Cradle Mountain photo. 
+![](/images/5D3568CE-FD4B-4AA6-9A39-F4FE818EC94C.jpeg)
 
-![]()
+*Classic PB sandwich with a view*
 
-We said our goodbyes to Cradle Mountain, boarded the bus back to our car and headed back home.
+Taking the same route as Saturday, we walked down past Lake Wilks back down to Dove lake. It was great to actually be able to see more than 2m in front of us and be able take in the scenery 😂 
+
+![](/images/7B5E951B-2BE2-4509-B7FC-A100938C55A2.jpeg)
+
+By the time we got back around Dove Lake to the boat shed she clouds had completely cleared, the sun was out and we were able to get the classic Cradle Mountain Snaps. 
+
+![](/images/3049E4FF-7887-4DC7-B9B9-8DBD0AFE8CB3.jpeg)
+
+We said our goodbyes to Cradle Mountain, boarded the bus back to our car and headed home, back to Launceston.
