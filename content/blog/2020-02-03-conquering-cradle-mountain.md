@@ -98,7 +98,7 @@ Making the most of the good weather we headed from Dove Lake along Wombat Pool T
 
 From Marions lookout we walked back around to Crater Lake, back along a section of the Overland Track to Ronny Creek. We were pleasantly surprised to see some of the local wildlife out and about on our way back. 
 
-![]()
+![](/images/40C17A46-C5C1-4BCE-AD5A-5CF48F278D55.jpeg)
 
 ![]()
 
