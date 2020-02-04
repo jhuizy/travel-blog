@@ -84,7 +84,7 @@ It had been a few years since we’d ventured out this far but its worth the ext
 
 ![](/images/F477B7E5-1874-4690-93C9-694C88FF0904.jpeg)
 
-The weather was clearing up and we got a great view of the canyon. 
+*A short 10 min walk takes you to the canyon view point*
 
 After some lunch and a nice coffee we made our way back into the national park to see if the mountain would show its face today. And we were happy to see it had!
 
