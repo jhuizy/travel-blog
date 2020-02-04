@@ -82,4 +82,20 @@ The next day we took it easy in the morning. Sleeping in and reviving our energy
 
 The weather was clearing up and we got a great view of the canyon. 
 
-After some lunch and a nice coffee we made our way back into the national park to see if the mountain would show its face today.
+After some lunch and a nice coffee we made our way back into the national park to see if the mountain would show its face today. And we were happy to see it had!
+
+![]()
+
+Making the most of the good weather we headed from Dove Lake along Wombat Pool Track and up to Marions lookout once again. Today the view was much more spectacular than yesterday! We now understood why it’s one of the most popular treks at cradle mountain. 
+
+![]()
+
+From Marions lookout we walked back around to Crater Lake, back along a section of the Overland Track to Ronny Creek. We were pleasantly surprised to see some of the local wildlife out and about on our way back. 
+
+![]()
+
+![]()
+
+We ended todays walk at Ronny Creek,  caught the bus back to our car and headed back to the hotel to call it a day.
+
+- - -
