@@ -100,9 +100,11 @@ From Marions lookout we walked back around to Crater Lake, back along a section 
 
 ![](/images/40C17A46-C5C1-4BCE-AD5A-5CF48F278D55.jpeg)
 
-![]()
+![](/images/5FB8C7FD-5098-4E15-A7AE-7DEBB67608E3.jpeg)
 
 We ended todays walk at Ronny Creek,  caught the bus back to our car and headed back to the hotel to call it a day.
+
+![](/images/067C0210-5A96-4802-8C65-F3E247A5BDC5.jpeg)
 
 *The Adventures of Day 2*
 
