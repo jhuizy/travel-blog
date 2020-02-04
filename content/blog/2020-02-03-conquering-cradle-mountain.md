@@ -75,3 +75,11 @@ We went down to Dove Lake via Lake Wilks. As we descended, the weather cleared u
 *The Adventures of day 1*
 
 - - -
+
+The next day we took it easy in the morning. Sleeping in and reviving our energy from the day before. Seeing that it was still cloudy we decided to put our mountain sightings on hold for the morning and made our way to Leven Canyon. 
+
+![]()
+
+The weather was clearing up and we got a great view of the canyon. 
+
+After some lunch and a nice coffee we made our way back into the national park to see if the mountain would show its face today.
