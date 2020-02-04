@@ -76,9 +76,13 @@ We went down to Dove Lake via Lake Wilks. As we descended, the weather cleared u
 
 - - -
 
-The next day we took it easy in the morning. Sleeping in and reviving our energy from the day before. Seeing that it was still cloudy we decided to put our mountain sightings on hold for the morning and made our way to Leven Canyon. 
+The next day we took it easy in the morning. Sleeping in and reviving our energy from the day before. Seeing that it was still cloudy we decided to put our mountain sightings on hold for the morning and decided to check our the Leven Canyon Regional Reserve.
 
-![]()
+It had been a few years since we’d ventured out this far but its worth the extra hours drive. Although it was Freezing, the weather was clearing up and we got a great view of the canyon. 
+
+![](/images/5DB766C8-55CA-4B5C-B195-FF65153ED9C9.jpeg)
+
+![](/images/F477B7E5-1874-4690-93C9-694C88FF0904.jpeg)
 
 The weather was clearing up and we got a great view of the canyon. 
 
