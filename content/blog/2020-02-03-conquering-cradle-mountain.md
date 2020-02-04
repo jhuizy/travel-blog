@@ -1,5 +1,5 @@
 ---
-title: Conquering Cradle Mountain
+title: 'Long Weekend in the Cradle Valley, Tasmania'
 date: 2020-02-03T01:49:16.580Z
 description: >-
   Making the most of the Australia Day long weekend we took a road trip to visit
