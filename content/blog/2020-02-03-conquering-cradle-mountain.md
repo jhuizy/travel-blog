@@ -98,4 +98,22 @@ From Marions lookout we walked back around to Crater Lake, back along a section 
 
 We ended todays walk at Ronny Creek,  caught the bus back to our car and headed back to the hotel to call it a day.
 
+
+
+*The Adventures of Day 2*
+
 - - -
+
+Making the most of our last day we packed our day bags and once again headed to Cradle Mountain. Today’s plan was to tackle Hansons Peak. 
+
+We took the shuttle bus to Dove Lake and started hiking from there. Learning from the last two days we came prepared! Gloves, beanies, layers, comfy socks, we were ready for a good day of hiking. 
+
+![]()
+
+Although the clouds were still over Cradle Mountain, the view from Hansons Peak were amazing: Not only looking towards Cradle Mountain but also back towards Mt Emmett. 
+
+![]()
+
+From Hansons Peak we condinued on back down the other side, up little horn and taking the same route as Saturday down to Dove lake. It was great to actually be able to see more than 2m in front of us and actually take in the view 😂 
+
+![]()
