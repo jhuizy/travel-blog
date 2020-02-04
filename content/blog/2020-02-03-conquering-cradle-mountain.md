@@ -88,11 +88,13 @@ It had been a few years since we’d ventured out this far but its worth the ext
 
 After some lunch and a nice coffee we made our way back into the national park to see if the mountain would show its face today. And we were happy to see it had!
 
-![]()
+![](/images/65808689-BF18-4F0D-B91C-2790CA26C0EC.jpeg)
 
-Making the most of the good weather we headed from Dove Lake along Wombat Pool Track and up to Marions lookout once again. Today the view was much more spectacular than yesterday! We now understood why it’s one of the most popular treks at cradle mountain. 
+Making the most of the good weather we headed from Dove Lake along Wombat Pool Track and up to Marions lookout once again. Today the view was much more spectacular than yesterday! We now understood why it’s one of the most popular walks at Cradle Mountain. 
 
-![]()
+![](/images/0A2B6BE8-7F93-4432-8769-69228CC65B1E.jpeg)
+
+*The view from Marions Lookout*
 
 From Marions lookout we walked back around to Crater Lake, back along a section of the Overland Track to Ronny Creek. We were pleasantly surprised to see some of the local wildlife out and about on our way back. 
 
