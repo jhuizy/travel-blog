@@ -1,7 +1,17 @@
 ---
 title: 'Goodbye Australia, Hello Adventure'
 date: 2020-02-04T11:13:42.424Z
-description: And we are off! First stop Buenos Aires Argentina
+description: Packing for a 6 month Adventure
 image: /images/blog_IMG_0056.jpeg
 ---
-The time has come.
+After all the angst and nerves, excitement has set in. We are off. Jobless and homeless we are now living our lives out of a backpack for at least the next 6 months.
+
+So what do you take on a 6 month+ backpacking adventure? Well we are by no means an expert on this but here’s what we’re taking. 
+
+![]()
+
+![]()
+
+Somewhere we read to pack once, then pack again but with a third of the stuff. With this in mind we started packing. And I’m glad we started packing early cause think it took us about 5 packs to just be able to fit our stuff in! But we got there in the end and we’ll see how we manage. 
+
+First stop Buenos Aires, Argentina 🇦🇷
