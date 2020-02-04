@@ -148,7 +148,7 @@ By the time we got back around Dove Lake to the boat shed the clouds had complet
 
 After another big day of hiking we said our goodbyes to Cradle Mountain, boarded the bus back to our car and headed home, back to Launceston.
 
-![]()
+![](/images/A82D48E8-408C-4FB8-85C2-3F8A895ED84A.jpeg)
 
 *The Adventures of Day 2*
 
