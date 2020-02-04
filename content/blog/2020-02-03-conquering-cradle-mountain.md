@@ -56,7 +56,7 @@ From Kitchen Hut it is a further 2.5hrs to the summit and back. We started walki
 
 At this stage we had already been waking for over 2.5hrs. We were starting to get cold and were ready to start heading back. We started walking back along the Face Track, planning on making our way back to the Dove Lake bus stop to get a ride back to our car. 
 
-![]()
+![](/images/434EB890-948C-4617-854A-867CC7E2D4FE.jpeg)
 
 *The steep terrain* 
 
