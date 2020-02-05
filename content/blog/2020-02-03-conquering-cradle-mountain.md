@@ -4,7 +4,7 @@ date: 2020-02-03T01:49:16.580Z
 description: >-
   Making the most of the Australia Day long weekend we took a road trip to visit
   Cradle Mountain-Lake St Clair National Park.
-image: /images/173023DB-48DB-499F-8222-22460F9F4CFB.jpeg
+image: /images/3049E4FF-7887-4DC7-B9B9-8DBD0AFE8CB3.jpeg
 ---
 Making the most of the Australia Day long weekend we took a road trip to visit Cradle Mountain-Lake St Clair National Park. We loaded up our packs and headed off to test our our newly purchased gear (and our legs). 
 
