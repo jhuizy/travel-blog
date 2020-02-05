@@ -110,7 +110,7 @@ So we booked some accomodation and took a road trip to Cradle Mountain.
 
 ![](/images/173023DB-48DB-499F-8222-22460F9F4CFB.jpeg)
 
-What an amazing place! So much so we’re going to write about it in its own post. So stay tuned!
+What an amazing place! So much so its got its own post. Go read it [here](https://twotravellingaussies.com/long-weekend-in-the-cradle-valley,-tasmania)!
 
 - - -
 
