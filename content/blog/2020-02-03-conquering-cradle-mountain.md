@@ -156,7 +156,7 @@ After another big day of hiking we said our goodbyes to Cradle Mountain, boarded
 
 ![](/images/A82D48E8-408C-4FB8-85C2-3F8A895ED84A.jpeg)
 
-*The Adventures of Day 2*
+*The Adventures of Day 3*
 
 - - -
 
