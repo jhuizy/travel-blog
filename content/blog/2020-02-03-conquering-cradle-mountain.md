@@ -164,5 +164,4 @@ Although we weren’t able to climb to the summit of Cradle Mountain we did not 
 
 We were reminded why we love hiking so much. While it may be tough at times, the view is ALWAYS worth it. It lets you appreciate the amazing creation we have around us and allows you to see the Almighty Power of our God in this world. We will definitely be visiting Cradle Mountain-Lake St Clair National Park again when we are back in the state and recommend anyone visiting Tasmania to take the time to go visit. 
 
-> “God created everything in the heavenly realms and on earth. He made the things we can see\
-> and the things we can’t see - such as thrones, kingdoms, rulers, and authorities in the unseen world. Everything was created through him and for him. He existed before anything else, and he holds all creation together.” - Colossians 1:16-17
+> “God created everything in the heavenly realms and on earth. He made the things we can see and the things we can’t see - such as thrones, kingdoms, rulers, and authorities in the unseen world. Everything was created through him and for him. He existed before anything else, and he holds all creation together.” - Colossians 1:16-17
