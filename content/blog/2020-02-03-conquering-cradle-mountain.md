@@ -18,13 +18,15 @@ We arrived late Friday night, checked the BOM radar and were happy to see the pr
 
 - - -
 
-Excited, we woke early on Saturday ready to conquer Cradle Mountain. After a good breakfast we drove to the visitors centre where we boarded the shuttle bus to take us into the park. Ronny Creek was our first stop where we planned to start our hike. It was clear already here, when we hopped off the bus, that we hadn’t picked the nicest day for a walk and the weather forecast we read was wrong. But we were in the park, excited and prepared so we registered our walk and set off anyway. 
+Excited, we woke early on Saturday ready to conquer Cradle Mountain. After a good breakfast we drove to the visitors centre where we boarded the shuttle bus to take us into the park. 
+
+Ronny Creek was our first stop where we planned to start our hike. It was clear already here, when we hopped off the bus, that we hadn’t picked the nicest day for a walk and the weather forecast we read was wrong. But we were in the park, excited and prepared so we registered our walk and set off anyway. 
 
 ![](/images/F57968C6-15DB-4AB6-9F96-E47CD71BA7AC.jpeg)
 
 *Ronny Creek*
 
-We headed along the Overland track, past Crater Falls and stopped on Wombat Peak for some morning tea. At this point there were some low lying clouds hanging about so we couldn’t see the top of the mountains but could still over look Lake Lilla and Dove Lake.
+We headed along part of the Overland Track, past Crater Falls and stopped on Wombat Peak for some morning tea. At this point there were some low lying clouds hanging about so we couldn’t see the top of the mountains but could still over look Lake Lilla and Dove Lake.
 
 ![](/images/4C1C9CC6-511A-4C02-AC0E-A01B0BDA98C4.jpeg)
 
@@ -52,7 +54,7 @@ At this point the rain had set in. The tracks were starting to become rivers and
 
 *Kitchen Hut*
 
-From Kitchen Hut it is a further 2.5hrs to the summit and back. We started walking up the track but 15 minutes in it was apparent that the rain was only going to get worse the higher we climbed. And to top it off half the track was underwater. So we made the executive decision to turn back. We were not going to conquer the summit today.
+From Kitchen Hut it is a further 2.5hrs to the summit and back. We started walking up the track but 15 minutes in it was apparent that the rain was only going to get worse the higher we climbed. And to top it off, half the track was underwater. So we made the executive decision to turn back. We were not going to conquer the summit today.
 
 At this stage we had already been waking for over 2.5hrs. We were starting to get cold and were ready to start heading back. We started walking back along the Face Track, planning on making our way back to the Dove Lake bus stop to get a ride back to our car. 
 
@@ -72,15 +74,15 @@ We went down to Dove Lake via Lake Wilks. As we descended, the weather cleared u
 
 ![](/images/B5EB012E-AC36-42F7-804F-D7A76FA787AC.jpeg)
 
-4hrs 30min and 13.10km we arrived back at the bus at Dove lake. We headed back to our accomodation to relax for the afternoon to ready see what the next day of adventuring would bring.
+4hrs 30min and 13.10km we arrived back at the bus at Dove Lake. We headed back to our accomodation to relax and rejuvenate for the afternoon, ready see what the next day of adventuring would bring.
 
 ![](/images/82A8173A-903A-47B4-B651-649C47419D42.jpeg)
 
-*The Adventures of day 1*
+*The Adventures of Day 1*
 
 - - -
 
-The next day we took it easy in the morning. Sleeping in and reviving our energy from the day before. Seeing that it was still cloudy we decided to put our mountain sightings on hold for the morning and decided to check our the Leven Canyon Regional Reserve.
+The next day we took it easy in the morning. Sleeping in and reviving our energy from the day before. Seeing that it was still cloudy we decided to put our mountain sightings on hold for the morning and went to check our the Leven Canyon Regional Reserve.
 
 It had been a few years since we’d ventured out this far but its worth the extra hours drive. Although it was freezing, the weather was clearing up and we got a great view of the canyon. 
 
@@ -90,9 +92,11 @@ It had been a few years since we’d ventured out this far but its worth the ext
 
 *A short 10 min walk takes you to the canyon view point*
 
-After some lunch and a nice coffee we made our way back into the Cradle Mountain national park to see if the summit would show its face. We were happy to see that there was far less cloud hanging about today.
+After some lunch and a nice coffee we made our way back into the Cradle Mountain national park to see if the mountain would show its face. We were happy to see that there was far less cloud hanging about today.
 
 ![](/images/65808689-BF18-4F0D-B91C-2790CA26C0EC.jpeg)
+
+*Happy to get his first glimpse at Cradle Mountain*
 
 Making the most of the good weather we headed from Dove Lake along Wombat Pool Track and up to Marions lookout once again. Today the view was much more spectacular than yesterday! We now understood why it’s one of the most popular walks at Cradle Mountain. 
 
@@ -100,13 +104,13 @@ Making the most of the good weather we headed from Dove Lake along Wombat Pool T
 
 *The view from Marions Lookout*
 
-From Marions lookout we walked back around to Crater Lake, back along a section of the Overland Track to Ronny Creek. We were pleasantly surprised to see some of the local wildlife out and about on our way back. 
+From Marions Lookout we walked back around to Crater Lake, back along a section of the Overland Track to Ronny Creek. We were pleasantly surprised to see some of the local wildlife out and about on our way back. 
 
 ![](/images/40C17A46-C5C1-4BCE-AD5A-5CF48F278D55.jpeg)
 
 ![](/images/5FB8C7FD-5098-4E15-A7AE-7DEBB67608E3.jpeg)
 
-We ended todays walk at Ronny Creek,  caught the bus back to our car and headed back to the hotel to call it a day.
+We ended todays walk at Ronny Creek, caught the bus back to our car and headed back to the hotel to call it a day.
 
 ![](/images/067C0210-5A96-4802-8C65-F3E247A5BDC5.jpeg)
 
@@ -114,11 +118,13 @@ We ended todays walk at Ronny Creek,  caught the bus back to our car and headed 
 
 - - -
 
-Making the most of our last day we packed our day bags and once again headed to Cradle Mountain. Today’s plan was to tackle Hansons Peak. Learning from the past two days we came prepared! Gloves, beanies, layers of clothes, comfy socks, we were ready for a good day of hiking. 
+Making the most of our last day we organised our day packs and once again headed to Cradle Mountain. Today’s plan was to tackle Hansons Peak. Learning from the past two days we came prepared! Gloves, beanies, layers of clothes and comfy socks; we were ready for a good day of hiking. 
 
 We took the shuttle bus to Dove Lake and started hiking from there.  
 
 ![](/images/71D97400-323F-4CD9-93FE-C4A483CE981F.jpeg)
+
+*Heading up to Hansons Peak*
 
 Although the clouds were still over Cradle Mountain, the view from Hansons Peak was amazing; Not only looking towards Cradle Mountain but also back towards Mt Emmett. 
 
@@ -138,7 +144,7 @@ From Hansons Peak we continued on, back down the other side, up Little Horn and 
 
 *Classic PB sandwich with a view*
 
-Taking the same route as Saturday, we walked down past Lake Wilks back down to Dove lake. It was great to actually be able to see more than 2m in front of us and be able take in the scenery 😂 
+Taking the same route as Saturday, we walked down past Lake Wilks back down to Dove Lake. It was great to actually be able to see more than 2 meters in front of us and be able take in the scenery 😂 
 
 ![](/images/7B5E951B-2BE2-4509-B7FC-A100938C55A2.jpeg)
 
@@ -158,4 +164,5 @@ Although we weren’t able to climb to the summit of Cradle Mountain we did not 
 
 We were reminded why we love hiking so much. While it may be tough at times, the view is ALWAYS worth it. It lets you appreciate the amazing creation we have around us and allows you to see the Almighty Power of our God in this world. We will definitely be visiting Cradle Mountain-Lake St Clair National Park again when we are back in the state and recommend anyone visiting Tasmania to take the time to go visit. 
 
-> “For by him all things were created, in heaven and on earth, visible and invisible, whetherthrones ordominions or rulers or authorities—all things were createdthrough him and for him. And he is before all things, and in him all thingshold together.” - Colossians 1:16-17
+> “God created everything in the heavenly realms and on earth. He made the things we can see\
+> and the things we can’t see - such as thrones, kingdoms, rulers, and authorities in the unseen world. Everything was created through him and for him. He existed before anything else, and he holds all creation together.” - Colossians 1:16-17
