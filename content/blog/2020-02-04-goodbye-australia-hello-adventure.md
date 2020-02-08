@@ -10,7 +10,7 @@ Jobless and homeless we are now living our lives out of a backpack for at least 
 
 ![](/images/E67DCB99-AB75-4375-A711-BD8CBC77B0BB.jpeg)
 
-So what do you take on a 6 month+ backpacking adventure? Well we are by no means an expert on this but here’s what we’ve packed. 
+So what do you take on a 6 month+ backpacking adventure? Well we are by no means an expert on this, but here’s what we’ve packed. 
 
 ![](/images/6349B8B1-9566-4FD8-9E7B-464BE80CCBE4.jpeg)
 
@@ -20,4 +20,4 @@ So what do you take on a 6 month+ backpacking adventure? Well we are by no means
 
 *Jordan’s Contents*
 
-Hopefully next time we post it’ll be from our first stop: Buenos Aires, Argentina 🇦🇷
+If all goes to plan the next time we post it’ll be from our first stop: Buenos Aires, Argentina 🇦🇷
