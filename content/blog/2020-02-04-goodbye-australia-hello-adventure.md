@@ -8,7 +8,7 @@ After all the angst and nerves, excitement has set in. We are off. Jobless and h
 
 So what do you take on a 6 month+ backpacking adventure? Well we are by no means an expert on this but here’s what we’re taking. 
 
-![]()
+![](/images/E67DCB99-AB75-4375-A711-BD8CBC77B0BB.jpeg)
 
 ![]()
 
