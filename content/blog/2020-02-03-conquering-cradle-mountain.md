@@ -14,7 +14,7 @@ We had been watching the weather for the past week wondering if it was worth hea
 
 ![](/images/FDBDCAF3-5971-4805-B552-CB41A0A27896.jpeg)
 
-We arrived late Friday night, checked the BOM radar and were happy to see the precipitation forecast for Saturday was 0mm. With our sites set on hiking the summit we got our day packs ready and got in a good nights sleep ready for our big hike early the next morning. 
+We arrived late Friday night, checked the BOM radar and were happy to see the precipitation forecast for Saturday was 0mm. With our sights set on hiking the summit we got our day packs ready and got in a good nights sleep ready for our big hike early the next morning. 
 
 - - -
 
@@ -160,7 +160,7 @@ After another big day of hiking we said our goodbyes to Cradle Mountain, boarded
 
 - - -
 
-Although we weren’t able to climb to the summit of Cradle Mountain we did not leave disappointed. There are so many different tracks and walks you can do around the mountain that all have beautiful views. Even though it was raining on our first day of hiking it was by far our most enjoyable day. Walking in the rain was the most amazing experience, although we couldn’t see the classic views of the mountain the views we saw were breath taking. 
+Although we weren’t able to climb to the summit of Cradle Mountain we did not leave disappointed. There are so many different tracks and walks you can do around the mountain that all have beautiful views. Even though it was raining on our first day of hiking it was by far our most enjoyable day. Walking in the rain was the most amazing experience, although we couldn’t see the classic views of the mountain the sights we saw were breath taking. 
 
 We were reminded why we love hiking so much. While it may be tough at times, the view is ALWAYS worth it. It lets you appreciate the amazing creation we have around us and allows you to see the Almighty Power of our God in this world. We will definitely be visiting Cradle Mountain-Lake St Clair National Park again when we are back in the state and recommend anyone visiting Tasmania to take the time to go visit. 
 
