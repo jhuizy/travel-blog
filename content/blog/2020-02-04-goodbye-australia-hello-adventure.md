@@ -10,7 +10,7 @@ So what do you take on a 6 month+ backpacking adventure? Well we are by no means
 
 ![](/images/E67DCB99-AB75-4375-A711-BD8CBC77B0BB.jpeg)
 
-![]()
+![](/images/7147F45E-22D5-4284-9C16-36DE39DDBD1C.jpeg)
 
 Somewhere we read to pack once, then pack again but with a third of the stuff. With this in mind we started packing. And I’m glad we started packing early cause think it took us about 5 packs to just be able to fit our stuff in! But we got there in the end and we’ll see how we manage. 
 
