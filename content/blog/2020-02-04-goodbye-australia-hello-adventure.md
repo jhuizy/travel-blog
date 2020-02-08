@@ -17,3 +17,5 @@ So what do you take on a 6 month+ backpacking adventure? Well we are by no means
 Somewhere we read to pack once, then pack again but with a third of the stuff. With this in mind we started packing. And I’m glad we started packing early cause think it took us about 5 packs to just be able to fit our stuff in! But we got there in the end and we’ll see how we manage. 
 
 First stop Buenos Aires, Argentina 🇦🇷
+
+![](/images/73996BD4-0090-4F87-B5A1-0DCEF70244CC.jpeg)
