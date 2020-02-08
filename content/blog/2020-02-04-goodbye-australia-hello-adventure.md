@@ -4,6 +4,8 @@ date: 2020-02-04T11:13:42.424Z
 description: Packing for a 6 month Adventure
 image: /images/045148AB-4E1F-4817-A82A-682B8B941DD6.jpeg
 ---
+![](/images/2AD5473C-2FF7-422F-8154-9463F7CA4ED5.jpeg)
+
 After all the angst and nerves, excitement has set in. We are off. Jobless and homeless we are now living our lives out of a backpack for at least the next 6 months.
 
 So what do you take on a 6 month+ backpacking adventure? Well we are by no means an expert on this but here’s what we’re taking. 
