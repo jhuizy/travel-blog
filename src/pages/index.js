@@ -15,7 +15,7 @@ import styled from "styled-components"
 import tw from "tailwind.macro"
 
 const H1 = styled.h1`
-  ${tw`bg-black p-2 text-white text-bold text-sm md:text-lg lg:text-3xl tracking-widest uppercase`}
+  ${tw`bg-black p-1 pt-2 text-white text-bold text-sm md:text-lg lg:text-3xl tracking-widest uppercase`}
 `
 
 const IndexPage = ({ data }) => {
@@ -32,13 +32,9 @@ const IndexPage = ({ data }) => {
         <HeroImage />
         <div className="flex flex-col justfiy-between items-center h-full w-full absolute inset-0">
           <div className="flex-1 flex justify-around items-center">
-            <H1>Always seeking adventure</H1>
-          </div>
-          <div className="flex-1 flex justify-around items-center">
-            <Button onClick={(e) => scrollToRef(postsRef)}>Discover</Button>
+            <H1>always seeking adventure</H1>
           </div>
         </div>
-
       </div>
       <Section id="posts" ref={postsRef}>
         <PostList
