@@ -7,11 +7,11 @@ import { scrollToRef } from "../utils/scroll"
 import styled from "styled-components"
 import tw from "tailwind.macro"
 
-const MobileMenuItem = styled.button`
+const MobileMenuItem = styled(Link)`
   ${tw`hover:bg-teal-400 hover:text-black p-3 flex justify-around items-center text-sm`}
 `
 
-const MenuItem = styled.button`
+const MenuItem = styled(Link)`
   ${tw`flex-1 text-bold px-3 hover:bg-teal-400 hover:text-black flex items-center justify-around text-sm`}
 `
 
@@ -23,16 +23,16 @@ const HeaderLink = styled(Link)`
   ${tw`hover:text-white`}
 `
 
-export default ({ siteTitle, homeRef, postsRef, instagramRef, subscribeRef }) => {
+export default ({ siteTitle }) => {
 
   const [isOpen, setOpen] = useState(false)
 
   return (
     <div className="flex flex-col bg-black text-white text-bold z-0">
       <div className="flex flex-row justify-around px-2 z-0">
-        <h1 className="lg:w-3/5 lg:text-xl text-lg p-2 my-2 lg:mx-6">
-          <HeaderLink href="/">{siteTitle}</HeaderLink>
-        </h1>
+        <div className="lg:w-3/5 lg:text-xl text-lg p-2 my-2 lg:mx-6">
+          <HeaderLink to="/"><h1>{siteTitle}</h1></HeaderLink>
+        </div>
 
         <div className="flex flex-row flex-1 lg:flex-0 justify-end lg:w-2/5">
           <button className="block lg:hidden hover:text-black hover:bg-teal-400 px-2 my-2 rounded-sm" onClick={e => setOpen(!isOpen)}>
@@ -48,20 +48,20 @@ export default ({ siteTitle, homeRef, postsRef, instagramRef, subscribeRef }) =>
             }
           </button>
           <div className="flex-grow flex-row hidden lg:flex">
-            <MenuItem onClick={createClickHandler(homeRef, "home")}><h6>Home</h6></MenuItem>
-            <MenuItem onClick={createClickHandler(postsRef, "posts")}><h6>Posts</h6></MenuItem>
-            <MenuItem onClick={createClickHandler(instagramRef, "instagram")}><h6>Instagram</h6></MenuItem>
-            <MenuItem onClick={createClickHandler(subscribeRef, "subscribe")}><h6>Subscribe</h6></MenuItem>
+            <MenuItem to="/"><h6>Home</h6></MenuItem>
+            <MenuItem to="#posts"><h6>Posts</h6></MenuItem>
+            <MenuItem to="#instagram"><h6>Instagram</h6></MenuItem>
+            <MenuItem to="#subscribe"><h6>Subscribe</h6></MenuItem>
           </div>
         </div>
       </div>
 
       {isOpen && (
         <div className={`flex flex-col items-stretch block lg:hidden bg-gray-900`}>
-          <MobileMenuItem onClick={createClickHandler(homeRef, "home")}><h6>Home</h6></MobileMenuItem>
-          <MobileMenuItem onClick={createClickHandler(postsRef, "posts")}><h6>Posts</h6></MobileMenuItem>
-          <MobileMenuItem onClick={createClickHandler(instagramRef, "instagram")}><h6>Instagram</h6></MobileMenuItem>
-          <MobileMenuItem onClick={createClickHandler(subscribeRef, "subscribe")}><h6>Subscribe</h6></MobileMenuItem>
+          <MobileMenuItem to="/"><h6>Home</h6></MobileMenuItem>
+          <MobileMenuItem to="#posts"><h6>Posts</h6></MobileMenuItem>
+          <MobileMenuItem to="#instagram"><h6>Instagram</h6></MobileMenuItem>
+          <MobileMenuItem to="#subscribe"><h6>Subscribe</h6></MobileMenuItem>
         </div>
       )}
     </div>
