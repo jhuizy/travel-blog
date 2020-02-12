@@ -19,6 +19,10 @@ const createClickHandler = (ref, id) => (e) => {
   navigate(`/#${id}`)
 }
 
+const HeaderLink = styled(Link)`
+  ${tw`hover:text-white`}
+`
+
 export default ({ siteTitle, homeRef, postsRef, instagramRef, subscribeRef }) => {
 
   const [isOpen, setOpen] = useState(false)
@@ -27,7 +31,7 @@ export default ({ siteTitle, homeRef, postsRef, instagramRef, subscribeRef }) =>
     <div className="flex flex-col bg-black text-white text-bold z-0">
       <div className="flex flex-row justify-around px-2 z-0">
         <h1 className="lg:w-3/5 lg:text-xl text-lg p-2 my-2 lg:mx-6">
-          {siteTitle}
+          <HeaderLink href="/">{siteTitle}</HeaderLink>
         </h1>
 
         <div className="flex flex-row flex-1 lg:flex-0 justify-end lg:w-2/5">
