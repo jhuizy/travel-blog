@@ -1,5 +1,6 @@
 import React, { useRef } from "react"
 import { Link, graphql } from "gatsby"
+import * as _ from "lodash"
 
 import Layout from "../components/layout"
 import { HeroImage } from "../components/image"
@@ -14,7 +15,31 @@ import { scrollToRef } from "../utils/scroll"
 import styled from "styled-components"
 import tw from "tailwind.macro"
 
+const H1 = styled.h1`
+  ${tw`bg-black p-1 pt-2 text-white text-bold text-sm md:text-lg lg:text-3xl tracking-widest uppercase`}
+`
+
+const getWordpressPost = (data) => data.wordpressPosts.edges.map(edge => ({
+  category: edge.node.date,
+  title: edge.node.title,
+  excerpt: edge.node.excerpt,
+  image: edge.node.featured_media.localFile.childImageSharp.fluid,
+  slug: edge.node.slug
+}))
+
+const getMarkdownPost = (data) => data.blogPosts.edges.map(edge => ({
+  category: edge.node.frontmatter.date,
+  title: edge.node.frontmatter.title,
+  excerpt: edge.node.frontmatter.description,
+  image: edge.node.frontmatter.image.childImageSharp.fluid,
+  slug: edge.node.frontmatter.title.replace(/ /g, '-').toLowerCase()
+}))
+
+const getAllPosts = (data) => _.concat(getMarkdownPost(data), getWordpressPost(data)).sort(post => new Date(post.category)).reverse()
+
 const IndexPage = ({ data }) => {
+
+  console.log(`data = ${JSON.stringify(data, null, 2)}`);
 
   const homeRef = useRef(null)
   const postsRef = useRef(null)
@@ -28,23 +53,13 @@ const IndexPage = ({ data }) => {
         <HeroImage />
         <div className="flex flex-col justfiy-between items-center h-full w-full absolute inset-0">
           <div className="flex-1 flex justify-around items-center">
-            <h1 className="border-white border-b-4 py-1 px-4 text-white text-bold text-sm md:text-lg lg:text-3xl tracking-widest uppercase">Always seeking adventure</h1>
-          </div>
-          <div className="flex-1 flex justify-around items-center">
-            <Button onClick={(e) => scrollToRef(postsRef)}>Discover</Button>
+            <H1>always seeking adventure</H1>
           </div>
         </div>
-
       </div>
       <Section id="posts" ref={postsRef}>
         <PostList
-          posts={data.blogPosts.edges.map(edge => ({
-            category: edge.node.frontmatter.date,
-            title: edge.node.frontmatter.title,
-            excerpt: edge.node.frontmatter.description,
-            image: edge.node.frontmatter.image.childImageSharp.fluid,
-            slug: edge.node.frontmatter.title.replace(/ /g, '-').toLowerCase()
-          }))}
+          posts={getAllPosts(data)}
         />
       </Section>
       <div id="instagram" className="pt-4 min-h-screen w-full" ref={instagramRef}>
@@ -74,6 +89,25 @@ export const query = graphql`
             date(formatString: "DD MMMM YYYY")
             description
             image {
+              childImageSharp {
+                fluid {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    wordpressPosts: allWordpressPost(sort: {fields: date, order: DESC}, limit: 3) {
+      edges {
+        node {
+          date(formatString: "DD MMMM YYYY")
+          excerpt
+          slug
+          title
+          featured_media {
+            localFile {
               childImageSharp {
                 fluid {
                   ...GatsbyImageSharpFluid
