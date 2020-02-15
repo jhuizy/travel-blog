@@ -1,5 +1,6 @@
 import React, { useRef } from "react"
 import { Link, graphql } from "gatsby"
+import * as _ from "lodash"
 
 import Layout from "../components/layout"
 import { HeroImage } from "../components/image"
@@ -17,6 +18,24 @@ import tw from "tailwind.macro"
 const H1 = styled.h1`
   ${tw`bg-black p-1 pt-2 text-white text-bold text-sm md:text-lg lg:text-3xl tracking-widest uppercase`}
 `
+
+const getWordpressPost = (data) => data.wordpressPosts.edges.map(edge => ({
+  category: edge.node.date,
+  title: edge.node.title,
+  excerpt: edge.node.excerpt,
+  image: edge.node.featured_media.localFile.childImageSharp.fluid,
+  slug: edge.node.slug
+}))
+
+const getMarkdownPost = (data) => data.blogPosts.edges.map(edge => ({
+  category: edge.node.frontmatter.date,
+  title: edge.node.frontmatter.title,
+  excerpt: edge.node.frontmatter.description,
+  image: edge.node.frontmatter.image.childImageSharp.fluid,
+  slug: edge.node.frontmatter.title.replace(/ /g, '-').toLowerCase()
+}))
+
+const getAllPosts = (data) => _.concat(getMarkdownPost(data), getWordpressPost(data)).sort(post => new Date(post.category)).reverse()
 
 const IndexPage = ({ data }) => {
 
@@ -39,23 +58,8 @@ const IndexPage = ({ data }) => {
         </div>
       </div>
       <Section id="posts" ref={postsRef}>
-        {/* <PostList
-          posts={data.blogPosts.edges.map(edge => ({
-            category: edge.node.frontmatter.date,
-            title: edge.node.frontmatter.title,
-            excerpt: edge.node.frontmatter.description,
-            image: edge.node.frontmatter.image.childImageSharp.fluid,
-            slug: edge.node.frontmatter.title.replace(/ /g, '-').toLowerCase()
-          }))}
-        /> */}
         <PostList
-          posts={data.wordpressPosts.edges.map(edge => ({
-            category: edge.node.date,
-            title: edge.node.title,
-            excerpt: edge.node.excerpt,
-            image: edge.node.featuredImageFile.childImageSharp.fluid,
-            slug: edge.node.slug
-          }))}
+          posts={getAllPosts(data)}
         />
       </Section>
       <div id="instagram" className="pt-4 min-h-screen w-full" ref={instagramRef}>
@@ -102,10 +106,12 @@ export const query = graphql`
           excerpt
           slug
           title
-          featuredImageFile {
-            childImageSharp {
-              fluid {
-                ...GatsbyImageSharpFluid
+          featured_media {
+            localFile {
+              childImageSharp {
+                fluid {
+                  ...GatsbyImageSharpFluid
+                }
               }
             }
           }

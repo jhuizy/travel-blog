@@ -13,6 +13,10 @@ const Markup = styled.div`
   
   p {
     ${tw`my-4`}
+
+    em {
+      ${tw`w-full text-center block`}
+    }
   }
 
   figcaption {
