@@ -27,6 +27,14 @@ const Markup = styled.div`
   a {
     ${tw`text-blue-500 hover:underline`}
   }
+
+  .gatsby-resp-image-image {
+    width: auto !important;
+  }
+
+  blockquote {
+    ${tw`italic`}
+  }
 `
 
 export default ({ data }) => {
