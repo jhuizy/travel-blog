@@ -80,7 +80,7 @@ export default ({ props }) => {
   return (
     <Container className="container">
       <form onSubmit={handleSubmit}>
-        <h2>Subscribe to recieve email updates</h2>
+        <h2>Never miss a post, subscribe!</h2>
         <div className="subscribe">
           <input
             placeholder="Email address"

@@ -12,7 +12,7 @@ const Markup = styled.div`
   ${tw`my-2`}
   
   p {
-    ${tw`my-4`}
+    ${tw`my-1`}
 
     em {
       ${tw`w-full text-center block`}
