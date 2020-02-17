@@ -15,10 +15,6 @@ import { scrollToRef } from "../utils/scroll"
 import styled from "styled-components"
 import tw from "tailwind.macro"
 
-const H1 = styled.h1`
-  ${tw`bg-black p-1 pt-2 text-white text-bold text-sm md:text-lg lg:text-3xl tracking-widest uppercase`}
-`
-
 const getWordpressPost = (data) => data.wordpressPosts.edges.map(edge => ({
   category: edge.node.date,
   title: edge.node.title,
@@ -39,8 +35,6 @@ const getAllPosts = (data) => _.sortBy([...getMarkdownPost(data), ...getWordpres
 
 const IndexPage = ({ data }) => {
 
-  console.log(`data = ${JSON.stringify(data, null, 2)}`);
-
   const homeRef = useRef(null)
   const postsRef = useRef(null)
   const instagramRef = useRef(null)
@@ -53,9 +47,13 @@ const IndexPage = ({ data }) => {
         <HeroImage />
         <div className="flex flex-col justfiy-between items-center h-full w-full absolute inset-0">
           <div className="flex-1 flex justify-around items-center">
-            <H1>always seeking adventure</H1>
+            <h1 className="border-white border-b-4 py-1 px-4 text-white text-bold text-sm md:text-lg lg:text-3xl tracking-widest uppercase">Always seeking adventure</h1>
+          </div>
+          <div className="flex-1 flex justify-around items-center">
+            <Button onClick={(e) => scrollToRef(postsRef)}>Discover</Button>
           </div>
         </div>
+
       </div>
       <Section id="posts" ref={postsRef}>
         <PostList

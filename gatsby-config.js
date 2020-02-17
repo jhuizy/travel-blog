@@ -5,7 +5,6 @@ require("dotenv").config({
 // ignore self signed cert error for connecting to wordpress
 process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0"
 
-console.log(`process.env   = ${JSON.stringify(process.env, null, 2)}`);
 module.exports = {
   siteMetadata: {
     title: `Two Travelling Aussies`,
