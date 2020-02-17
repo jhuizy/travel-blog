@@ -11,8 +11,14 @@ import tw from 'tailwind.macro'
 const Markup = styled.div`
   ${tw`my-2`}
   
+  ul {
+    list-style-type: initial;
+    list-style-position: inside;
+    ${tw`px-4`}
+  }
+
   p {
-    ${tw`my-1`}
+    ${tw`my-4`}
 
     em {
       ${tw`w-full text-center block`}

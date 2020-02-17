@@ -35,7 +35,7 @@ const getMarkdownPost = (data) => data.blogPosts.edges.map(edge => ({
   slug: edge.node.frontmatter.title.replace(/ /g, '-').toLowerCase()
 }))
 
-const getAllPosts = (data) => _.concat(getMarkdownPost(data), getWordpressPost(data)).sort(post => new Date(post.category)).reverse()
+const getAllPosts = (data) => _.sortBy([...getMarkdownPost(data), ...getWordpressPost(data)], post => new Date(post.category)).reverse()
 
 const IndexPage = ({ data }) => {
 
