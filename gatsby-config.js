@@ -2,6 +2,8 @@ require("dotenv").config({
   path: `.env`,
 })
 
+const _ = require('lodash')
+
 // ignore self signed cert error for connecting to wordpress
 process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0"
 
@@ -145,14 +147,27 @@ module.exports = {
           `,
         feeds: [
           {
-            serialize: ({ query: { site, allMarkdownRemark } }) => {
-              return allMarkdownRemark.edges.map(edge => {
+            serialize: ({ query: { site, allMarkdownRemark, allWordpressPost } }) => {
+              const markdownPosts = allMarkdownRemark.edges.map(edge => {
                 return Object.assign({}, edge.node.frontmatter, {
                   url: site.siteMetadata.siteUrl + "/" + edge.node.frontmatter.title.replace(/ /g, '-').toLowerCase(),
                   guid: site.siteMetadata.siteUrl + "/" + edge.node.frontmatter.title.replace(/ /g, '-').toLowerCase(),
                   custom_elements: [{ "content:encoded": edge.node.html }],
                 })
               })
+
+              const wordpressPosts = allWordpressPost.edges.map(edge => {
+                return {
+                  title: edge.node.title,
+                  date: edge.node.date,
+                  description: edge.node.excerpt,
+                  url: site.siteMetadata.siteUrl + "/" + edge.node.slug,
+                  guid: site.siteMetadata.siteUrl + "/" + edge.node.slug,
+                  custom_elements: [{ "content:encoded": edge.node.content }]
+                }
+              })
+
+              return _.sortBy([...markdownPosts, ...wordpressPosts], post => new Date(post.date)).reverse()
             },
             query: `
                 {
@@ -167,6 +182,17 @@ module.exports = {
                           date
                           description
                         }
+                      }
+                    }
+                  },
+                  allWordpressPost(sort: {fields: date, order: DESC}) {
+                    edges {
+                      node {
+                        date(formatString: "DD MMMM YYYY")
+                        excerpt
+                        slug
+                        title
+                        content
                       }
                     }
                   }
