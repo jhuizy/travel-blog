@@ -97,7 +97,7 @@ export const query = graphql`
         }
       }
     },
-    wordpressPosts: allWordpressPost(sort: {fields: date, order: DESC}, limit: 3) {
+    wordpressPosts: allWordpressPost(sort: {fields: date, order: DESC}) {
       edges {
         node {
           date(formatString: "DD MMMM YYYY")
